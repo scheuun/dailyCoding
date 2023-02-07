@@ -14,7 +14,6 @@ public class JadenCase {
         String[] str = s.toLowerCase().split("");
 
         str[0] = str[0].toUpperCase();
-
         for(int i=0; i<str.length; i++) {
             if(i>0 && str[i-1].equals(" ")) {
                 answer += str[i].toUpperCase();
