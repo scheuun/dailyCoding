@@ -28,7 +28,6 @@ public class JadenCase {
         return answer;
     }
 
-
     public static void main(String[] args) {
         JadenCase j = new JadenCase();
         System.out.println(j.solution("3people unFollowed me"));
