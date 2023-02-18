@@ -14,7 +14,28 @@ package level2;
  */
 public class NextBigNum {
     public int solution(int n) {
-        int answer = 0;
-        return answer;
+        String s = Integer.toBinaryString(n);
+        int oneCnt = 0;
+        int strCnt = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '1') oneCnt++;
+        }
+
+        for (int i = n+1; ; i++) {
+            String str = Integer.toBinaryString(i);
+            if (str.charAt(i) == '1') strCnt++;
+            if (oneCnt == strCnt) break; n = i;
+        }
+
+
+
+        return n;
+    }
+
+
+    public static void main(String[] args) {
+        NextBigNum n = new NextBigNum();
+        System.out.println(n.solution(78));
     }
 }
