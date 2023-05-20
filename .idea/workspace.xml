@@ -60,11 +60,11 @@
   </component>
   <component name="RunManager" selected="Application.JudgeABC2x">
     <configuration name="JudgeABC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeABC1" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeABC1" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +73,11 @@
       </method>
     </configuration>
     <configuration name="JudgeABC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeABC2" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeABC2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +86,11 @@
       </method>
     </configuration>
     <configuration name="JudgeABC2x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeABC2x" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeABC2x" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="JudgeSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeSign" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeSign" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.Median" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.Median" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
