@@ -1,7 +1,5 @@
 package algorithm.ch01;
 
-import java.util.Scanner;
-
 public class Max3Method {
     static int max3(int a, int b, int c) {
         int max = a;
