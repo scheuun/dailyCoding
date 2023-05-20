@@ -1,4 +1,4 @@
-package algorithm.ch01;
+package algorithm.ch01.ex01;
 
 public class Max3Method {
     static int max3(int a, int b, int c) {

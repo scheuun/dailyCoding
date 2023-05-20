@@ -11,9 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeABC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeABC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeABC2x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeSign.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/Remainder1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dailycoding/level1/Remainder1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level2/NextBigNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level2/NextBigNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +44,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.ch01" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NextBigNum">
-    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.Binary" />
+  <component name="RunManager" selected="Application.JudgeABC2x">
+    <configuration name="JudgeABC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeABC1" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="algorithm.ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.FibonacciNum" />
+    <configuration name="JudgeABC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeABC2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="algorithm.ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextBigNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.NextBigNum" />
+    <configuration name="JudgeABC2x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeABC2x" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="algorithm.ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.NumExpression" />
+    <configuration name="JudgeSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.JudgeSign" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="algorithm.ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.test" />
+    <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.Median" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="algorithm.ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NextBigNum" />
-        <item itemvalue="Application.FibonacciNum" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Binary" />
-        <item itemvalue="Application.NumExpression" />
+        <item itemvalue="Application.JudgeABC2x" />
+        <item itemvalue="Application.JudgeABC2" />
+        <item itemvalue="Application.JudgeABC1" />
+        <item itemvalue="Application.JudgeSign" />
+        <item itemvalue="Application.Median" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +153,10 @@
       <workItem from="1676466319682" duration="961000" />
       <workItem from="1676645608171" duration="145000" />
       <workItem from="1676730563960" duration="4031000" />
+      <workItem from="1684396757762" duration="603000" />
+      <workItem from="1684399907569" duration="118000" />
+      <workItem from="1684505662249" duration="485000" />
+      <workItem from="1684593129907" duration="2380000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -186,7 +200,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676732211908</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2023/05/18">
+      <created>1684397317409</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684397317409</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2023/05/29">
+      <created>1684506089165</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684506089165</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2023/05/20">
+      <created>1684594544641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684594544641</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,43 +246,50 @@
     <MESSAGE value="2023/02/14" />
     <MESSAGE value="2023/02/17" />
     <MESSAGE value="2023/02/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/02/18" />
+    <MESSAGE value="2023/05/18" />
+    <MESSAGE value="2023/05/29" />
+    <MESSAGE value="2023/05/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/05/20" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1684396790387" />
     <state x="931" y="400" width="435" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1676466439347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="931" y="400" width="435" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1676466439347" />
-    <state x="804" y="262" key="FileChooserDialogImpl" timestamp="1676730694056">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1684397359506">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="262" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1676730694056" />
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1676294797735" />
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684397359506" />
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose" timestamp="1676732229279">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose/0.0.1920.1032@0.0.1920.1032" timestamp="1676732229279" />
     <state x="837" y="515" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1676382282939" />
-    <state width="1877" height="401" key="GridCell.Tab.0.bottom" timestamp="1676734595972">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1860" height="280" key="GridCell.Tab.0.bottom" timestamp="1684595343178">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003200" />
-    <state width="1877" height="401" key="GridCell.Tab.0.center" timestamp="1676734595972">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1860" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343178" />
+    <state width="1860" height="280" key="GridCell.Tab.0.center" timestamp="1684595343178">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003199" />
-    <state width="1877" height="401" key="GridCell.Tab.0.left" timestamp="1676734595972">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1860" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343178" />
+    <state width="1860" height="280" key="GridCell.Tab.0.left" timestamp="1684595343177">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003199" />
-    <state width="1877" height="401" key="GridCell.Tab.0.right" timestamp="1676734595972">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1860" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343177" />
+    <state width="1860" height="280" key="GridCell.Tab.0.right" timestamp="1684595343178">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003200" />
+    <state width="1860" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343178" />
     <state width="1877" height="401" key="GridCell.Tab.1.bottom" timestamp="1676734595973">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -272,27 +314,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676208534707" />
-    <state x="281" y="249" key="SettingsEditor" timestamp="1675082421979">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684594596156">
       <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="281" y="249" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1675082421979" />
-    <state x="572" y="333" key="Vcs.Push.Dialog.v2" timestamp="1676732223715">
-      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="572" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1676732223715" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676382277966" />
-    <state x="692" y="305" width="584" height="536" key="find.popup" timestamp="1675082082417">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="692" y="305" width="584" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1675082082417" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684594596156" />
     <state x="929" y="312" key="git4idea.merge.GitPullDialog" timestamp="1676208592886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="929" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676208592886" />
-    <state x="780" y="503" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1675082506423">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="780" y="503" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1675082506423" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1676292133860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
