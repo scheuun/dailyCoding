@@ -11,12 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeABC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeABC2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeABC2x.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/JudgeSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Alternative1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Alternative1a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumVerbose1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumVerbose2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/Remainder1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dailycoding/level1/Remainder1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -51,20 +55,22 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.ch01.ex02" />
       <recent name="algorithm.ch01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JudgeABC2x">
-    <configuration name="JudgeABC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeABC1" />
+  <component name="RunManager" selected="Application.Alternative2">
+    <configuration name="Alternative1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.Alternative1" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JudgeABC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeABC2" />
+    <configuration name="Alternative2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.Alternative2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JudgeABC2x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeABC2x" />
+    <configuration name="SumFor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.SumFor2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JudgeSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.JudgeSign" />
+    <configuration name="SumVerbose1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.SumVerbose1" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex01.Median" />
+    <configuration name="SumVerbose2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.SumVerbose2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JudgeABC2x" />
-        <item itemvalue="Application.JudgeABC2" />
-        <item itemvalue="Application.JudgeABC1" />
-        <item itemvalue="Application.JudgeSign" />
-        <item itemvalue="Application.Median" />
+        <item itemvalue="Application.Alternative2" />
+        <item itemvalue="Application.Alternative1" />
+        <item itemvalue="Application.SumVerbose2" />
+        <item itemvalue="Application.SumVerbose1" />
+        <item itemvalue="Application.SumFor2" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +162,8 @@
       <workItem from="1684396757762" duration="603000" />
       <workItem from="1684399907569" duration="118000" />
       <workItem from="1684505662249" duration="485000" />
-      <workItem from="1684593129907" duration="2380000" />
+      <workItem from="1684593129907" duration="3147000" />
+      <workItem from="1684733529402" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -221,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684594544641</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2023/05/21">
+      <created>1684595607059</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684595607059</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2023/05/21">
+      <created>1684595652766</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684595652766</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +270,8 @@
     <MESSAGE value="2023/05/18" />
     <MESSAGE value="2023/05/29" />
     <MESSAGE value="2023/05/20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/05/20" />
+    <MESSAGE value="2023/05/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/05/21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -260,73 +282,73 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="931" y="400" width="435" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1676466439347" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1684397359506">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1684595698251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="262" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1676730694056" />
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684397359506" />
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684595698251" />
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose" timestamp="1676732229279">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose/0.0.1920.1032@0.0.1920.1032" timestamp="1676732229279" />
     <state x="837" y="515" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1676382282939" />
-    <state width="1860" height="280" key="GridCell.Tab.0.bottom" timestamp="1684595343178">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1684735203942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343178" />
-    <state width="1860" height="280" key="GridCell.Tab.0.center" timestamp="1684595343178">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1684735203942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343178" />
-    <state width="1860" height="280" key="GridCell.Tab.0.left" timestamp="1684595343177">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1684735203942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343177" />
-    <state width="1860" height="280" key="GridCell.Tab.0.right" timestamp="1684595343178">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1684735203942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684595343178" />
-    <state width="1877" height="401" key="GridCell.Tab.1.bottom" timestamp="1676734595973">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="401" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003300" />
-    <state width="1877" height="401" key="GridCell.Tab.1.center" timestamp="1676734595973">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="401" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003300" />
-    <state width="1877" height="401" key="GridCell.Tab.1.left" timestamp="1676734595972">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="401" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003300" />
-    <state width="1877" height="401" key="GridCell.Tab.1.right" timestamp="1676734595973">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="401" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1676467003300" />
-    <state x="991" y="227" key="RollbackChangesDialog" timestamp="1676208534707">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1684735203777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676208534707" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684594596156">
+    <state width="1877" height="401" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1684735203777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="401" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1684735203777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="401" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1684735203777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="401" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
+    <state x="991" y="227" key="RollbackChangesDialog" timestamp="1684595584163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684595665211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1676732223715" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684594596156" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684595665211" />
     <state x="929" y="312" key="git4idea.merge.GitPullDialog" timestamp="1676208592886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="929" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676208592886" />
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1676292133860">
+    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684736196708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1676292133860" />
+    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1684736196708" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
