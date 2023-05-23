@@ -11,14 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Alternative1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Alternative1a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumFor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumVerbose1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumVerbose2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Multi99Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/PrintStars1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/PrintStars2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/TriangleLB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/TwoDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/IntArrayInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/MaxOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/MaxOfArrayRand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +65,13 @@
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Alternative2">
-    <configuration name="Alternative1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.Alternative1" />
+  <component name="RunManager" selected="Application.MaxOfArrayRand">
+    <configuration name="IntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.IntArray" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Alternative2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.Alternative2" />
+    <configuration name="IntArrayInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.IntArrayInit" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumFor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.SumFor2" />
+    <configuration name="MaxOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.MaxOfArray" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumVerbose1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.SumVerbose1" />
+    <configuration name="MaxOfArrayRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.MaxOfArrayRand" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumVerbose2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.SumVerbose2" />
+    <configuration name="TriangleLB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.TriangleLB" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Alternative2" />
-        <item itemvalue="Application.Alternative1" />
-        <item itemvalue="Application.SumVerbose2" />
-        <item itemvalue="Application.SumVerbose1" />
-        <item itemvalue="Application.SumFor2" />
+        <item itemvalue="Application.MaxOfArrayRand" />
+        <item itemvalue="Application.MaxOfArray" />
+        <item itemvalue="Application.IntArrayInit" />
+        <item itemvalue="Application.IntArray" />
+        <item itemvalue="Application.TriangleLB" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +164,8 @@
       <workItem from="1684399907569" duration="118000" />
       <workItem from="1684505662249" duration="485000" />
       <workItem from="1684593129907" duration="3147000" />
-      <workItem from="1684733529402" duration="2681000" />
+      <workItem from="1684733529402" duration="3917000" />
+      <workItem from="1684829831464" duration="4926000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -242,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684595652766</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2023/05/22">
+      <created>1684737904494</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684737904494</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +280,8 @@
     <MESSAGE value="2023/05/29" />
     <MESSAGE value="2023/05/20" />
     <MESSAGE value="2023/05/21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/05/21" />
+    <MESSAGE value="2023/05/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/05/22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -292,63 +302,63 @@
     </state>
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose/0.0.1920.1032@0.0.1920.1032" timestamp="1676732229279" />
     <state x="837" y="515" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1676382282939" />
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1684735203942">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1684835518470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
-    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1684735203942">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518470" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1684835518469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
-    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1684735203942">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518469" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1684835518469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
-    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1684735203942">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518469" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1684835518470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203942" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1684735203777">
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518470" />
+    <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1684737952260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1684735203777">
+    <state width="1860" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684737952260" />
+    <state width="1860" height="347" key="GridCell.Tab.1.center" timestamp="1684737952260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1684735203777">
+    <state width="1860" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684737952260" />
+    <state width="1860" height="347" key="GridCell.Tab.1.left" timestamp="1684737952260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1684735203777">
+    <state width="1860" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684737952260" />
+    <state width="1860" height="347" key="GridCell.Tab.1.right" timestamp="1684737952260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684735203777" />
+    <state width="1860" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684737952260" />
     <state x="991" y="227" key="RollbackChangesDialog" timestamp="1684595584163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684595665211">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684737919380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1676732223715" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684595665211" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684737919380" />
     <state x="929" y="312" key="git4idea.merge.GitPullDialog" timestamp="1676208592886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="929" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676208592886" />
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684736196708">
+    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1684736196708" />
+    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1684737646680" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
