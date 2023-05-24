@@ -11,15 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Multi99Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/PrintStars1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/PrintStars2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/TriangleLB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch01/ex02/TwoDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/IntArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/IntArrayInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/MaxOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/MaxOfArrayRand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../board" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -65,7 +57,7 @@
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxOfArrayRand">
+  <component name="RunManager" selected="Application.ReverseArray">
     <configuration name="IntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.IntArray" />
       <module name="dailycoding" />
@@ -118,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleLB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.ex02.TriangleLB" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.ReverseArray" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.MaxOfArrayRand" />
         <item itemvalue="Application.MaxOfArray" />
         <item itemvalue="Application.IntArrayInit" />
         <item itemvalue="Application.IntArray" />
-        <item itemvalue="Application.TriangleLB" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +157,8 @@
       <workItem from="1684505662249" duration="485000" />
       <workItem from="1684593129907" duration="3147000" />
       <workItem from="1684733529402" duration="3917000" />
-      <workItem from="1684829831464" duration="4926000" />
+      <workItem from="1684829831464" duration="5153000" />
+      <workItem from="1684915454659" duration="1395000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -251,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684737904494</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2023/05/23">
+      <created>1684835734336</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684835734336</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +281,8 @@
     <MESSAGE value="2023/05/20" />
     <MESSAGE value="2023/05/21" />
     <MESSAGE value="2023/05/22" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/05/22" />
+    <MESSAGE value="2023/05/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/05/23" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -292,36 +293,36 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="931" y="400" width="435" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1676466439347" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1684595698251">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1684916257759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="262" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1676730694056" />
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684595698251" />
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose" timestamp="1676732229279">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose/0.0.1920.1032@0.0.1920.1032" timestamp="1676732229279" />
     <state x="837" y="515" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1676382282939" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1684835518470">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1684835772320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518470" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1684835518469">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1684835772320" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1684835772320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518469" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1684835518469">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1684835772320" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1684835772320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518469" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1684835518470">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1684835772320" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1684835772320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684835518470" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1684835772320" />
     <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1684737952260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -346,15 +347,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684737919380">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684835758393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1676732223715" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684737919380" />
-    <state x="929" y="312" key="git4idea.merge.GitPullDialog" timestamp="1676208592886">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="929" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676208592886" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684835758393" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
