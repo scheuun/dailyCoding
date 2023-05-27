@@ -11,11 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/CardConv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/CloneArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/PrimeNumber1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/PrimeNumber2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/ex01/PrimeNumber3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +57,7 @@
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraySumForIn">
+  <component name="RunManager" selected="Application.PhysicalExamination">
     <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.ArraySumForIn" />
       <module name="dailycoding" />
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.PrimeNumber1" />
+    <configuration name="PhysicalExamination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex02.PhysicalExamination" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch02.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhysicalExamination" />
         <item itemvalue="Application.ArraySumForIn" />
         <item itemvalue="Application.CloneArray" />
         <item itemvalue="Application.PrimeNumber3" />
         <item itemvalue="Application.PrimeNumber2" />
-        <item itemvalue="Application.PrimeNumber1" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +159,8 @@
       <workItem from="1684733529402" duration="3917000" />
       <workItem from="1684829831464" duration="5153000" />
       <workItem from="1684915454659" duration="1422000" />
-      <workItem from="1685002316458" duration="5364000" />
+      <workItem from="1685002316458" duration="5632000" />
+      <workItem from="1685196624395" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -264,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684922342123</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2023/05/25">
+      <created>1685009133768</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685009133768</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +299,8 @@
     <MESSAGE value="2023/05/22" />
     <MESSAGE value="2023/05/23" />
     <MESSAGE value="2023/05/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/05/24" />
+    <MESSAGE value="2023/05/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/05/25" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -317,55 +321,55 @@
     </state>
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose/0.0.1920.1032@0.0.1920.1032" timestamp="1676732229279" />
     <state x="837" y="515" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1676382282939" />
-    <state width="1860" height="347" key="GridCell.Tab.0.bottom" timestamp="1685008570296">
+    <state width="1860" height="347" key="GridCell.Tab.0.bottom" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570296" />
-    <state width="1860" height="347" key="GridCell.Tab.0.center" timestamp="1685008570296">
+    <state width="1860" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1860" height="347" key="GridCell.Tab.0.center" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570296" />
-    <state width="1860" height="347" key="GridCell.Tab.0.left" timestamp="1685008570295">
+    <state width="1860" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1860" height="347" key="GridCell.Tab.0.left" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570295" />
-    <state width="1860" height="347" key="GridCell.Tab.0.right" timestamp="1685008570296">
+    <state width="1860" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1860" height="347" key="GridCell.Tab.0.right" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570296" />
-    <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1685008570296">
+    <state width="1860" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1860" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570296" />
-    <state width="1860" height="347" key="GridCell.Tab.1.center" timestamp="1685008570296">
+    <state width="1860" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1860" height="347" key="GridCell.Tab.1.center" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1860" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570296" />
-    <state width="1860" height="347" key="GridCell.Tab.1.left" timestamp="1685008570296">
+    <state width="1860" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1860" height="347" key="GridCell.Tab.1.left" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570296" />
-    <state width="1860" height="347" key="GridCell.Tab.1.right" timestamp="1685008570296">
+    <state width="1860" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1860" height="347" key="GridCell.Tab.1.right" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595973" />
-    <state width="1860" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1685008570296" />
+    <state width="1860" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
     <state x="991" y="227" key="RollbackChangesDialog" timestamp="1684595584163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1684922353043">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1685009143735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1676732223715" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684922353043" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1685009143735" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
