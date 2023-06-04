@@ -46,6 +46,9 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch02.ex01" />
       <recent name="algorithm.ch01.ex02" />
@@ -161,6 +164,9 @@
       <workItem from="1684915454659" duration="1422000" />
       <workItem from="1685002316458" duration="5632000" />
       <workItem from="1685196624395" duration="765000" />
+      <workItem from="1685200834784" duration="163000" />
+      <workItem from="1685286111215" duration="770000" />
+      <workItem from="1685717594971" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -267,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685009133768</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2023/05/28">
+      <created>1685200979828</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685200979828</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,17 +313,14 @@
     <MESSAGE value="2023/05/23" />
     <MESSAGE value="2023/05/24" />
     <MESSAGE value="2023/05/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/05/25" />
+    <MESSAGE value="2023/05/28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/05/28" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1684396790387" />
-    <state x="931" y="400" width="435" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1676466439347">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="931" y="400" width="435" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1676466439347" />
     <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1684916257759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -320,27 +330,26 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="837" y="511" key="Github.Dialog.Accounts.Choose/0.0.1920.1032@0.0.1920.1032" timestamp="1676732229279" />
-    <state x="837" y="515" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1676382282939" />
-    <state width="1860" height="347" key="GridCell.Tab.0.bottom" timestamp="1685009156203">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1685200997764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
-    <state width="1860" height="347" key="GridCell.Tab.0.center" timestamp="1685009156203">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1685200997764" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1685200997764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
-    <state width="1860" height="347" key="GridCell.Tab.0.left" timestamp="1685009156203">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1685200997764" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1685200997764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
-    <state width="1860" height="347" key="GridCell.Tab.0.right" timestamp="1685009156203">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1685200997764" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1685200997764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1676734595972" />
-    <state width="1860" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1685200997764" />
     <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -365,11 +374,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1685009143735">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1685200991282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1676732223715" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1685009143735" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1685200991282" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
