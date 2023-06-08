@@ -1,5 +1,4 @@
-package algorithm.ch01.ex01.home;// 연습1-11
-// 구구단 표를 출력(곱하는 수를 출력)
+package algorithm.ch01.ex01.home;
 
 class Multi99TableEx {
 
