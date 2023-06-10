@@ -1,4 +1,4 @@
-package algorithm.ch01.ex01.home;
+package algorithm.ch01.home;
 
 class Med3 {
 
