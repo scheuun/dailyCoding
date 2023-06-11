@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,27 +37,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch01/ex01/home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch02/home" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
-      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch02.ex01" />
       <recent name="algorithm.ch01.ex02" />
       <recent name="algorithm.ch01" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.NumPira">
@@ -174,6 +173,7 @@
       <workItem from="1686061676675" duration="758000" />
       <workItem from="1686148521889" duration="128000" />
       <workItem from="1686235636070" duration="499000" />
+      <workItem from="1686405649652" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -329,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686235925605</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2023/06/10">
+      <created>1686405846090</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1686405846090</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +375,8 @@
     <MESSAGE value="2023/06/06" />
     <MESSAGE value="2023/06/07" />
     <MESSAGE value="2023/06/08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/06/08" />
+    <MESSAGE value="2023/06/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/06/10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -415,10 +423,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1686235939883">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1686405856148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1686235939883" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1686405856148" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
