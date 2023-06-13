@@ -44,39 +44,26 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
-      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch02.ex01" />
       <recent name="algorithm.ch01.ex02" />
       <recent name="algorithm.ch01" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumPira">
+  <component name="RunManager" selected="Application.SeqSearch">
     <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.ArraySumForIn" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.CloneArray" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -114,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeqSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex02.SeqSearch" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.ch03.ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StarPira" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch01.home.StarPira" />
       <module name="dailycoding" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeqSearch" />
         <item itemvalue="Application.NumPira" />
         <item itemvalue="Application.StarPira" />
         <item itemvalue="Application.PhysicalExamination" />
         <item itemvalue="Application.ArraySumForIn" />
-        <item itemvalue="Application.CloneArray" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +175,7 @@
       <workItem from="1686235636070" duration="499000" />
       <workItem from="1686405649652" duration="230000" />
       <workItem from="1686495082002" duration="426000" />
+      <workItem from="1686579734434" duration="123000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -344,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686495237673</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2023/06/12">
+      <created>1686579796040</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686579796040</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +393,8 @@
     <MESSAGE value="2023/06/08" />
     <MESSAGE value="2023/06/10" />
     <MESSAGE value="2023/06/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/06/11" />
+    <MESSAGE value="2023/06/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/06/12" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -432,10 +441,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1686495251975">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1686579809302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1686495251975" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1686579809302" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
