@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30" />
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/BinSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/BinarySearchTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/IdTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex02/SeqSearchFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex02/SeqSearchFor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,37 +43,38 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch02/home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="algorithm.ch02.ex01" />
-      <recent name="algorithm.ch01.ex02" />
-      <recent name="algorithm.ch01" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.ch02.ex01" />
+      <recent name="algorithm.ch01.ex02" />
+      <recent name="algorithm.ch01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SeqSearch">
-    <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex01.ArraySumForIn" />
+  <component name="RunManager" selected="Application.IdTester">
+    <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex03.BinSearch" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch02.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch03.ex03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumPira" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.home.NumPira" />
+    <configuration name="BinarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex03.BinarySearchTester" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.home.*" />
+          <option name="PATTERN" value="algorithm.ch03.ex03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhysicalExamination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch02.ex02.PhysicalExamination" />
+    <configuration name="IdTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex03.IdTester" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch02.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch03.ex03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex02.SeqSearch" />
+    <configuration name="SeqSearchFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex02.SeqSearchFor" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarPira" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch01.home.StarPira" />
+    <configuration name="SeqSearchSen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex02.SeqSearchSen" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch01.home.*" />
+          <option name="PATTERN" value="algorithm.ch03.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeqSearch" />
-        <item itemvalue="Application.NumPira" />
-        <item itemvalue="Application.StarPira" />
-        <item itemvalue="Application.PhysicalExamination" />
-        <item itemvalue="Application.ArraySumForIn" />
+        <item itemvalue="Application.IdTester" />
+        <item itemvalue="Application.BinarySearchTester" />
+        <item itemvalue="Application.BinSearch" />
+        <item itemvalue="Application.SeqSearchSen" />
+        <item itemvalue="Application.SeqSearchFor" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +183,9 @@
       <workItem from="1686405649652" duration="230000" />
       <workItem from="1686495082002" duration="426000" />
       <workItem from="1686579734434" duration="123000" />
+      <workItem from="1686664598424" duration="331000" />
+      <workItem from="1686669921452" duration="1401000" />
+      <workItem from="1687184568260" duration="1641000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -352,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686579796040</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2023/06/13">
+      <created>1686664889297</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1686664889297</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +411,8 @@
     <MESSAGE value="2023/06/10" />
     <MESSAGE value="2023/06/11" />
     <MESSAGE value="2023/06/12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/06/12" />
+    <MESSAGE value="2023/06/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/06/13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -405,22 +423,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1686236143087">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1687185772855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1686236143087" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1686236143087">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1687185772855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1686236143087" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1686236143087">
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1687185772855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1686236143087" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1686236143087">
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1687185772855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1686236143087" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
     <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -441,10 +459,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1686579809302">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1686664899708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1686579809302" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1686664899708" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

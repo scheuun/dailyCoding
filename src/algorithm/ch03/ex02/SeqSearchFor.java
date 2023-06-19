@@ -7,7 +7,7 @@ class SeqSearchFor {
         for (int i = 0; i < n; i++)
             if (a[i] == key)
                 return i;
-        return -1;
+            return -1;
     }
 
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ class SeqSearchFor {
             x[i] = stdIn.nextInt();
         }
 
-        System.out.print("검색 값할 값: ");
+        System.out.print("검색할 값: ");
         int ky = stdIn.nextInt();
 
         int idx = seqSearch(x, num, ky);
