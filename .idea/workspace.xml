@@ -11,11 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/BinSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/BinarySearchTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/IdTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch02/home/Copy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex02/SeqSearchFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex02/SeqSearchFor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,29 +40,29 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch02/home" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\ex02" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
-      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch02.ex01" />
       <recent name="algorithm.ch01.ex02" />
       <recent name="algorithm.ch01" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
   <component name="RunManager" selected="Application.IdTester">
@@ -185,7 +182,8 @@
       <workItem from="1686579734434" duration="123000" />
       <workItem from="1686664598424" duration="331000" />
       <workItem from="1686669921452" duration="1401000" />
-      <workItem from="1687184568260" duration="1641000" />
+      <workItem from="1687184568260" duration="1693000" />
+      <workItem from="1687358844225" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -369,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686664889297</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2023/06/19">
+      <created>1687186258938</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1687186258938</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +417,8 @@
     <MESSAGE value="2023/06/11" />
     <MESSAGE value="2023/06/12" />
     <MESSAGE value="2023/06/13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/06/13" />
+    <MESSAGE value="2023/06/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/06/19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -423,22 +429,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1687185772855">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1687186275941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1687185772855">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1687186275941" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1687186275941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1687185772855">
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1687186275941" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1687186275941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1687185772855">
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1687186275941" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1687186275941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1687185772855" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1687186275941" />
     <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -459,10 +465,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1686664899708">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1687186270320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1686664899708" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1687186270320" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
