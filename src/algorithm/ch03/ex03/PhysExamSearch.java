@@ -1,6 +1,7 @@
 package algorithm.ch03.ex03;
 
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.Scanner;
 
 public class PhysExamSearch {
@@ -10,19 +11,17 @@ public class PhysExamSearch {
         private double vision;
 
         public PhyscData(String name, int height, double vision) {
-            this.name = name;
-            this.height = height;
-            this.vision = vision;
+            this.name = name; this.height = height; this.vision = vision;
         }
 
         public String toString() {
             return name + " " + height + " " + vision;
         }
 
-        public static final Comparable<PhyscData> HEIGHT_ORDER =
+        public static final Comparator<PhyscData> HEIGHT_ORDER =
                 new HeightOrderComparator();
 
-        private static class HeightOrderComparator implements Comparable<PhyscData> {
+        private static class HeightOrderComparator implements Comparator<PhyscData> {
             public int compare(PhyscData d1,PhyscData d2) {
                 return (d1.height > d2.height) ? 1 :
                        (d1.height < d2.height) ? -1 : 0;
