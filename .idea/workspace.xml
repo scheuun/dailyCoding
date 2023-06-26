@@ -11,9 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/GenericClassTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch04/ex01/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch04/ex01/IntStackTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/PhysExamSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ch03/ex03/PhysExamSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +66,7 @@
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericClassTester$GenericClass">
-    <configuration name="BinarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex03.BinarySearchTester" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.ch03.ex03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IntStackTester">
     <configuration name="GenericClassTester$GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch03.ex03.GenericClassTester$GenericClass" />
       <module name="dailycoding" />
@@ -99,6 +86,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.ch03.ex03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch04.ex01.IntStackTester" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.ch04.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntStackTester" />
         <item itemvalue="Application.GenericClassTester$GenericClass" />
         <item itemvalue="Application.PhysExamSearch" />
         <item itemvalue="Application.StringBinarySearch" />
         <item itemvalue="Application.IdTester" />
-        <item itemvalue="Application.BinarySearchTester" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,8 @@
       <workItem from="1687184568260" duration="1693000" />
       <workItem from="1687358844225" duration="112000" />
       <workItem from="1687443093017" duration="69000" />
-      <workItem from="1687702907997" duration="2974000" />
+      <workItem from="1687702907997" duration="3065000" />
+      <workItem from="1687788823183" duration="1899000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -398,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687705066531</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2023/06/26">
+      <created>1687705966288</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1687705966288</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +425,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/02/14" />
     <MESSAGE value="2023/02/17" />
     <MESSAGE value="2023/02/18" />
     <MESSAGE value="2023/05/18" />
@@ -442,7 +449,8 @@
     <MESSAGE value="2023/06/21" />
     <MESSAGE value="2023/06/22" />
     <MESSAGE value="2023/06/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/06/25" />
+    <MESSAGE value="2023/06/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/06/26" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -457,22 +465,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1687705590260">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1687705999315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1687705590260" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1687705590260">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1687705999315" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1687705999315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1687705590260" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1687705590260">
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1687705999315" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1687705999315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1687705590260" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1687705590260">
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1687705999315" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1687705999315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1687705590260" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1687705999315" />
     <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1685009156203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -493,10 +501,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1687705078511">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1687705978081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1687705078511" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1687705978081" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
