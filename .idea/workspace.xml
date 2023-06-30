@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/ex01/EuclidGCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/ex01/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/ex02/Recur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/ex02/RecurX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/ex02/RecurX2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,7 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EuclidGCD">
+  <component name="RunManager" selected="Application.RecurX1">
     <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch05.ex01.EuclidGCD" />
       <module name="dailycoding" />
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntQueueTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch04.ex02.IntQueueTester" />
+    <configuration name="Recur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.ex02.Recur" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch04.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch05.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch04.ex01.IntStackTester" />
+    <configuration name="RecurX1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.ex02.RecurX1" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch04.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch05.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastNElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch04.ex02.LastNElements" />
+    <configuration name="RecurX2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.ex02.RecurX2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch04.ex02.*" />
+          <option name="PATTERN" value="algorithm.ch05.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecurX1" />
+        <item itemvalue="Application.RecurX2" />
+        <item itemvalue="Application.Recur" />
         <item itemvalue="Application.EuclidGCD" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.LastNElements" />
-        <item itemvalue="Application.IntQueueTester" />
-        <item itemvalue="Application.IntStackTester" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,9 @@
       <workItem from="1687788823183" duration="2270000" />
       <workItem from="1687875897405" duration="2231000" />
       <workItem from="1687961191889" duration="91000" />
-      <workItem from="1688047675253" duration="1033000" />
+      <workItem from="1688047675253" duration="1197000" />
+      <workItem from="1688049528227" duration="11000" />
+      <workItem from="1688135974185" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -430,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687961266519</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2023/06/29">
+      <created>1688049446559</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1688049446559</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +459,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/05/18" />
     <MESSAGE value="2023/05/29" />
     <MESSAGE value="2023/05/20" />
     <MESSAGE value="2023/05/21" />
@@ -474,7 +483,8 @@
     <MESSAGE value="2023/06/26" />
     <MESSAGE value="2023/06/27" />
     <MESSAGE value="2023/06/28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/06/28" />
+    <MESSAGE value="2023/06/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/06/29" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -489,46 +499,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1688048912697">
+    <state width="1877" height="408" key="GridCell.Tab.0.bottom" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1688048912697" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1688048912696">
+    <state width="1877" height="408" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
+    <state width="1877" height="408" key="GridCell.Tab.0.center" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1688048912696" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1688048912680">
+    <state width="1877" height="408" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
+    <state width="1877" height="408" key="GridCell.Tab.0.left" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1688048912680" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1688048912696">
+    <state width="1877" height="408" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
+    <state width="1877" height="408" key="GridCell.Tab.0.right" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1688048912696" />
-    <state width="1860" height="347" key="GridCell.Tab.1.bottom" timestamp="1685009156203">
+    <state width="1877" height="408" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
+    <state width="1877" height="408" key="GridCell.Tab.1.bottom" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
-    <state width="1860" height="347" key="GridCell.Tab.1.center" timestamp="1685009156203">
+    <state width="1877" height="408" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
+    <state width="1877" height="408" key="GridCell.Tab.1.center" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
-    <state width="1860" height="347" key="GridCell.Tab.1.left" timestamp="1685009156203">
+    <state width="1877" height="408" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
+    <state width="1877" height="408" key="GridCell.Tab.1.left" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
-    <state width="1860" height="347" key="GridCell.Tab.1.right" timestamp="1685009156203">
+    <state width="1877" height="408" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
+    <state width="1877" height="408" key="GridCell.Tab.1.right" timestamp="1688136460646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1685009156203" />
+    <state width="1877" height="408" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1688136460646" />
     <state x="991" y="227" key="RollbackChangesDialog" timestamp="1684595584163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1687961276063">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1688049456792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1687961276063" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1688049456792" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
