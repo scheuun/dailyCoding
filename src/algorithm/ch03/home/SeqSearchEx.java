@@ -1,5 +1,4 @@
-package algorithm.ch03.home;// 연습3-2
-// 선형검색(검색 과정을 자세히 출력)
+package algorithm.ch03.home;
 
 import java.util.Scanner;
 
