@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30" />
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch03/home/BinSearchX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,6 +203,8 @@
       <workItem from="1688652430279" duration="2122000" />
       <workItem from="1688740277719" duration="169000" />
       <workItem from="1688824878972" duration="206000" />
+      <workItem from="1688914442636" duration="79000" />
+      <workItem from="1688999309652" duration="141000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -516,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688825008472</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2023/07/09">
+      <created>1688914505696</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1688914505696</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +547,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/06/05" />
     <MESSAGE value="2023/06/06" />
     <MESSAGE value="2023/06/07" />
     <MESSAGE value="2023/06/08" />
@@ -560,7 +571,8 @@
     <MESSAGE value="2023/07/06" />
     <MESSAGE value="2023/07/07" />
     <MESSAGE value="2023/07/08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/08" />
+    <MESSAGE value="2023/07/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/09" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -611,10 +623,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1688825020238">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1688914517090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1688825020238" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1688914517090" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1684737646680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
