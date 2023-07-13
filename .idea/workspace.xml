@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/Partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSortV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,19 +41,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch03/home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch06/ex05" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\ex02" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch06.ex06" />
@@ -63,27 +61,15 @@
       <recent name="algorithm.ch06.ex02" />
       <recent name="algorithm.ch05.ex04" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
-      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\ex05" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSortV">
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch06.ex04.InsertionSort" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.ch06.ex04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QuickSort2">
     <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch06.ex06.Partition" />
       <module name="dailycoding" />
@@ -99,6 +85,19 @@
     </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch06.ex06.QuickSort" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.ch06.ex06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch06.ex06.QuickSort2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort2" />
         <item itemvalue="Application.QuickSortV" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Partition" />
         <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +207,8 @@
       <workItem from="1688914442636" duration="79000" />
       <workItem from="1688999309652" duration="250000" />
       <workItem from="1689055221150" duration="2477000" />
-      <workItem from="1689170605181" duration="1605000" />
+      <workItem from="1689170605181" duration="1738000" />
+      <workItem from="1689258019500" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
       <created>1675082584145</created>
@@ -546,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689057873932</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2023/07/12">
+      <created>1689172338356</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1689172338356</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +572,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/06/08" />
     <MESSAGE value="2023/06/10" />
     <MESSAGE value="2023/06/11" />
     <MESSAGE value="2023/06/12" />
@@ -590,7 +596,8 @@
     <MESSAGE value="2023/07/09" />
     <MESSAGE value="2023/07/10" />
     <MESSAGE value="2023/07/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/11" />
+    <MESSAGE value="2023/07/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/12" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -605,22 +612,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1689171924332">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1689172357852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1689171924332" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1689171924332">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1689172357852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1689171924332" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1689171924332">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1689172357852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1689171924332" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1689171924332">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1689172357852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1689171924332" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
     <state width="1877" height="408" key="GridCell.Tab.1.bottom" timestamp="1689057895263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -641,10 +648,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1689057884848">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1689172352349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1689057884848" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1689172352349" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
