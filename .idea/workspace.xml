@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch06/ex06/MergeArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,20 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch02\home" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort2">
+  <component name="RunManager" selected="Application.MergeArray">
+    <configuration name="MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch06.ex06.MergeArray" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.ch06.ex06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch06.ex06.Partition" />
       <module name="dailycoding" />
@@ -122,26 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch06.ex05.ShellSort" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.ch06.ex05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeArray" />
         <item itemvalue="Application.QuickSort2" />
         <item itemvalue="Application.QuickSortV" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Partition" />
-        <item itemvalue="Application.ShellSort" />
       </list>
     </recent_temporary>
   </component>
@@ -208,14 +207,8 @@
       <workItem from="1688999309652" duration="250000" />
       <workItem from="1689055221150" duration="2477000" />
       <workItem from="1689170605181" duration="1738000" />
-      <workItem from="1689258019500" duration="621000" />
-    </task>
-    <task id="LOCAL-00001" summary="upload 2023/01/26-2023/01/30">
-      <created>1675082584145</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1675082584145</updated>
+      <workItem from="1689258019500" duration="837000" />
+      <workItem from="1689345034693" duration="621000" />
     </task>
     <task id="LOCAL-00002" summary="2023/02/12">
       <created>1676208617559</created>
@@ -553,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689172338356</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="2023/07/13">
+      <created>1689258844050</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1689258844050</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +572,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/06/10" />
     <MESSAGE value="2023/06/11" />
     <MESSAGE value="2023/06/12" />
     <MESSAGE value="2023/06/13" />
@@ -597,7 +596,8 @@
     <MESSAGE value="2023/07/10" />
     <MESSAGE value="2023/07/11" />
     <MESSAGE value="2023/07/12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/12" />
+    <MESSAGE value="2023/07/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -612,22 +612,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1689172357852">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1689258863059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1689172357852">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1689258863059" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1689258863059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1689172357852">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1689258863059" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1689258863059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1689172357852">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1689258863059" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1689258863059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1689172357852" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1689258863059" />
     <state width="1877" height="408" key="GridCell.Tab.1.bottom" timestamp="1689057895263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -648,10 +648,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1689172352349">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1689258854920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1689172352349" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1689258854920" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
