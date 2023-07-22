@@ -1,4 +1,4 @@
-package algorithm.ch06.ex06;
+package algorithm.ch06.ex07;
 
 import java.util.Scanner;
 
