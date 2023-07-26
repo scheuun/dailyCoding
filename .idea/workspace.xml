@@ -11,10 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch07/ex01/BFmatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch07/ex01/IndexOfTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch07/ex02/KMPmatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch07/ex03/BMmatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,14 +218,7 @@
       <workItem from="1690036952696" duration="792000" />
       <workItem from="1690124165085" duration="121000" />
       <workItem from="1690203609307" duration="1216000" />
-      <workItem from="1690270996792" duration="3033000" />
-    </task>
-    <task id="LOCAL-00013" summary="2023/05/23">
-      <created>1684835734336</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1684835734336</updated>
+      <workItem from="1690270996792" duration="3562000" />
     </task>
     <task id="LOCAL-00014" summary="2023/05/24">
       <created>1684922342123</created>
@@ -567,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690204818949</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="2023/07/25">
+      <created>1690274490186</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1690274490202</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,7 +582,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/06/30" />
     <MESSAGE value="2023/07/01" />
     <MESSAGE value="2023/07/02" />
     <MESSAGE value="2023/07/03" />
@@ -611,7 +606,8 @@
     <MESSAGE value="2023/07/22" />
     <MESSAGE value="2023/07/23" />
     <MESSAGE value="2023/07/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/24" />
+    <MESSAGE value="2023/07/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/25" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -626,22 +622,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1684916257759" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1690272974168">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1690274590788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690272974168" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1690272974168">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1690274590788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690272974168" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1690272974168">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1690274590788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690272974168" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1690272974168">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1690274590788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690272974168" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
     <state width="1877" height="212" key="GridCell.Tab.1.bottom" timestamp="1690204836596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -662,10 +658,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690204829772">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690274510818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690204829772" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690274510818" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
