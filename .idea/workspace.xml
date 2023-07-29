@@ -11,10 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch08/ex02/LinkedListTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch08/ex02/ToStringTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex02/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ch08/ex02/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch08/ex02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../library" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -218,14 +215,9 @@
       <workItem from="1690203609307" duration="1216000" />
       <workItem from="1690270996792" duration="3562000" />
       <workItem from="1690350193417" duration="831000" />
-      <workItem from="1690467807810" duration="1579000" />
-    </task>
-    <task id="LOCAL-00015" summary="2023/05/25">
-      <created>1685009133768</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1685009133768</updated>
+      <workItem from="1690467807810" duration="2265000" />
+      <workItem from="1690554129203" duration="787000" />
+      <workItem from="1690638916849" duration="1092000" />
     </task>
     <task id="LOCAL-00016" summary="2023/05/28">
       <created>1685200979828</created>
@@ -563,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690350740195</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="2023/07/27">
+      <created>1690469466246</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1690469466247</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,26 +617,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1687704033732" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1690350763965">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1690638924560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1690350763965" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1690274590788">
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1690638924560" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1690471789125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1690274590788">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1690471789125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1690274590788">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1690471789125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1690274590788">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1690471789125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690274590788" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
     <state width="1877" height="212" key="GridCell.Tab.1.bottom" timestamp="1690204836596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -658,10 +657,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690350748487">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690469477270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690350748487" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690469477270" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
