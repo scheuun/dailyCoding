@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch08/ex03/ArrayLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +40,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../library" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch07\ex01" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\ex07" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch04\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\home" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch07.ex03" />
@@ -60,12 +61,12 @@
       <recent name="algorithm.ch06.ex03" />
       <recent name="algorithm.ch06.ex02" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
-      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch04\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch07\ex01" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\ex07" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch03\home" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ToStringTester">
@@ -217,14 +218,8 @@
       <workItem from="1690350193417" duration="831000" />
       <workItem from="1690467807810" duration="2265000" />
       <workItem from="1690554129203" duration="787000" />
-      <workItem from="1690638916849" duration="1092000" />
-    </task>
-    <task id="LOCAL-00016" summary="2023/05/28">
-      <created>1685200979828</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1685200979828</updated>
+      <workItem from="1690638916849" duration="1433000" />
+      <workItem from="1690900320764" duration="476000" />
     </task>
     <task id="LOCAL-00017" summary="2023/06/04">
       <created>1685889062379</created>
@@ -562,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690469466247</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="2023/07/29">
+      <created>1690641898924</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1690641898925</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +583,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/03" />
     <MESSAGE value="2023/07/04" />
     <MESSAGE value="2023/07/05" />
     <MESSAGE value="2023/07/06" />
@@ -606,7 +607,8 @@
     <MESSAGE value="2023/07/25" />
     <MESSAGE value="2023/07/26" />
     <MESSAGE value="2023/07/27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/27" />
+    <MESSAGE value="2023/07/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/29" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -657,10 +659,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690469477270">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690641909350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690469477270" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690641909350" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
