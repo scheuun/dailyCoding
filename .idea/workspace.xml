@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/home/EuclidGCDEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/home/FactorialEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch08/ex04/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch08/ex04/DoubleLinkedListTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch05/home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch08/ex04" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -49,11 +49,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex04" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch05\home" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex03" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch04\home" />
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch07\ex01" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\ex07" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch07.ex03" />
@@ -70,13 +70,13 @@
       <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EuclidGCDEx">
-    <configuration name="EuclidGCDEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.EuclidGCDEx" />
+  <component name="RunManager" selected="Application.DoubleLinkedListTester">
+    <configuration name="DoubleLinkedListTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch08.ex04.DoubleLinkedListTester" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch05.home.*" />
+          <option name="PATTERN" value="algorithm.ch08.ex04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOfTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch07.ex01.IndexOfTester" />
+    <configuration name="EuclidGCDEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.EuclidGCDEx" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch07.ex01.*" />
+          <option name="PATTERN" value="algorithm.ch05.home.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleLinkedListTester" />
         <item itemvalue="Application.EuclidGCDEx" />
         <item itemvalue="Application.ToStringTester" />
         <item itemvalue="Application.LinkedListTester" />
         <item itemvalue="Application.KMPmatch" />
-        <item itemvalue="Application.IndexOfTester" />
       </list>
     </recent_temporary>
   </component>
@@ -221,14 +221,8 @@
       <workItem from="1690554129203" duration="787000" />
       <workItem from="1690638916849" duration="1433000" />
       <workItem from="1690900320764" duration="706000" />
-      <workItem from="1690985893052" duration="314000" />
-    </task>
-    <task id="LOCAL-00018" summary="2023/06/05">
-      <created>1685973859466</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1685973859466</updated>
+      <workItem from="1690985893052" duration="491000" />
+      <workItem from="1691074243135" duration="1902000" />
     </task>
     <task id="LOCAL-00019" summary="2023/06/06">
       <created>1686061964138</created>
@@ -566,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690900999470</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="2023/08/02">
+      <created>1690986347751</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1690986347751</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +586,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/05" />
     <MESSAGE value="2023/07/06" />
     <MESSAGE value="2023/07/07" />
     <MESSAGE value="2023/07/08" />
@@ -610,7 +610,8 @@
     <MESSAGE value="2023/07/27" />
     <MESSAGE value="2023/07/29" />
     <MESSAGE value="2023/08/01" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/08/01" />
+    <MESSAGE value="2023/08/02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/08/02" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -621,58 +622,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1687704033732" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691076114950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1691076114950" />
     <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1690638924560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1690638924560" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1690471789125">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1690986387723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1690471789125">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387723" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1690986387723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1690471789125">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387723" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1690986387723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1690471789125">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387723" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1690986387723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690471789125" />
-    <state width="1877" height="212" key="GridCell.Tab.1.bottom" timestamp="1690204836596">
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387723" />
+    <state width="1877" height="212" key="GridCell.Tab.1.bottom" timestamp="1690986387722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="212" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690204836596" />
-    <state width="1877" height="212" key="GridCell.Tab.1.center" timestamp="1690204836596">
+    <state width="1877" height="212" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387722" />
+    <state width="1877" height="212" key="GridCell.Tab.1.center" timestamp="1690986387707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="212" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690204836596" />
-    <state width="1877" height="212" key="GridCell.Tab.1.left" timestamp="1690204836596">
+    <state width="1877" height="212" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387707" />
+    <state width="1877" height="212" key="GridCell.Tab.1.left" timestamp="1690986387707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="212" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690204836596" />
-    <state width="1877" height="212" key="GridCell.Tab.1.right" timestamp="1690204836596">
+    <state width="1877" height="212" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387707" />
+    <state width="1877" height="212" key="GridCell.Tab.1.right" timestamp="1690986387707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="212" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690204836596" />
+    <state width="1877" height="212" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1690986387707" />
     <state x="991" y="227" key="RollbackChangesDialog" timestamp="1684595584163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690901008399">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1690986360840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690901008399" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1690986360840" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="676" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1688999513605" />
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1690037410224">
+    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1691075582733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1690037410224" />
+    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1691075582733" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -886,31 +891,6 @@
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort3.java</url>
           <line>20</line>
           <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/EuclidGCDEx.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/EuclidGCDEx.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/EuclidGCDEx.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/EuclidGCDEx.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/EuclidGCDEx.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort.java</url>
