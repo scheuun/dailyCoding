@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch05/home/Recur2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,13 +220,7 @@
       <workItem from="1690985893052" duration="491000" />
       <workItem from="1691074243135" duration="2060000" />
       <workItem from="1691076374314" duration="1164000" />
-    </task>
-    <task id="LOCAL-00020" summary="2023/06/07">
-      <created>1686148605037</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1686148605037</updated>
+      <workItem from="1691164683991" duration="41000" />
     </task>
     <task id="LOCAL-00021" summary="2023/06/08">
       <created>1686235914268</created>
@@ -568,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691076292450</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="2023/08/05">
+      <created>1691164707519</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1691164707519</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +584,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/07" />
     <MESSAGE value="2023/07/08" />
     <MESSAGE value="2023/07/09" />
     <MESSAGE value="2023/07/10" />
@@ -612,7 +608,8 @@
     <MESSAGE value="2023/08/01" />
     <MESSAGE value="2023/08/02" />
     <MESSAGE value="2023/08/04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/08/04" />
+    <MESSAGE value="2023/08/05" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/08/05" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -667,10 +664,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691076304653">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691164717679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691076304653" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691164717679" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -892,61 +889,6 @@
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort3.java</url>
           <line>20</line>
           <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort.java</url>
