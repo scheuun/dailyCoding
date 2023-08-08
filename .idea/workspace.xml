@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30" />
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +46,12 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
-      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch05\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex04" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex03" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch04\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex02" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch07.ex03" />
@@ -58,34 +60,21 @@
       <recent name="algorithm.ch06.ex03" />
       <recent name="algorithm.ch06.ex02" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch05\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex04" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex03" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch04\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex02" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+      <recent name="C:\DEV\intellij\project\dailycoding\src\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GCDArray">
+  <component name="RunManager" selected="Application.RecurMemoCount">
     <configuration name="DoubleLinkedListTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch08.ex04.DoubleLinkedListTester" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.ch08.ex04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EuclidGCDEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.EuclidGCDEx" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.ch05.home.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,20 +108,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToStringTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToStringTester" />
+    <configuration name="RecurCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.RecurCount" />
       <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.ch05.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecurMemoCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.RecurMemoCount" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.ch05.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecurMemoCount" />
+        <item itemvalue="Application.RecurCount" />
         <item itemvalue="Application.GCDArray" />
         <item itemvalue="Application.Recur2" />
         <item itemvalue="Application.DoubleLinkedListTester" />
-        <item itemvalue="Application.EuclidGCDEx" />
-        <item itemvalue="Application.ToStringTester" />
       </list>
     </recent_temporary>
   </component>
@@ -221,13 +229,7 @@
       <workItem from="1691074243135" duration="2060000" />
       <workItem from="1691076374314" duration="1164000" />
       <workItem from="1691164683991" duration="41000" />
-    </task>
-    <task id="LOCAL-00021" summary="2023/06/08">
-      <created>1686235914268</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1686235914268</updated>
+      <workItem from="1691418975423" duration="665000" />
     </task>
     <task id="LOCAL-00022" summary="2023/06/08">
       <created>1686235925605</created>
@@ -565,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691164707519</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="2023/08/07">
+      <created>1691419353102</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1691419353118</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +593,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/08" />
     <MESSAGE value="2023/07/09" />
     <MESSAGE value="2023/07/10" />
     <MESSAGE value="2023/07/11" />
@@ -609,7 +617,8 @@
     <MESSAGE value="2023/08/02" />
     <MESSAGE value="2023/08/04" />
     <MESSAGE value="2023/08/05" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/08/05" />
+    <MESSAGE value="2023/08/07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/08/07" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -628,22 +637,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1690638924560" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1691077546442">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1691419752720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1691077546442" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1691077546442">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1691419752720" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1691419752720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1691077546442" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1691077546442">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1691419752720" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1691419752720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1691077546442" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1691077546442">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1691419752720" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1691419752720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1691077546442" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1691419752720" />
     <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1691077546442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -664,10 +673,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691164717679">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691419363834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691164717679" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691419363834" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
