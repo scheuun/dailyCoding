@@ -10,11 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="upload 2023/01/26-2023/01/30">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch09/ex02/BinTreeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch09/ex02/Object.java" afterDir="false" />
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="2023/08/09">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch10/ex01/ChainHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ch10/ex01/ChainHashTester2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch09/ex02/BinTree.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +41,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch09/ex02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/ch10/ex01" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex03" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch10\ex01" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch05\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex04" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex03" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch07.ex03" />
@@ -63,15 +62,15 @@
       <recent name="algorithm.ch06.ex03" />
       <recent name="algorithm.ch06.ex02" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch05\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex04" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08\ex03" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch04\home" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex03" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinTreeTester">
+  <component name="RunManager" selected="Application.ChainHashTester2">
     <configuration name="BinTreeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.ch09.ex02.BinTreeTester" />
       <module name="dailycoding" />
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.GCDArray" />
+    <configuration name="ChainHashTester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch10.ex01.ChainHashTester2" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch05.home.*" />
+          <option name="PATTERN" value="algorithm.ch10.ex01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recur2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.Recur2" />
+    <configuration name="GCDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ch05.home.GCDArray" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainHashTester2" />
         <item itemvalue="Application.BinTreeTester" />
         <item itemvalue="Application.RecurMemoCount" />
         <item itemvalue="Application.RecurCount" />
         <item itemvalue="Application.GCDArray" />
-        <item itemvalue="Application.Recur2" />
       </list>
     </recent_temporary>
   </component>
@@ -234,21 +233,8 @@
       <workItem from="1691164683991" duration="41000" />
       <workItem from="1691418975423" duration="665000" />
       <workItem from="1691505361743" duration="734000" />
-      <workItem from="1691566836183" duration="2613000" />
-    </task>
-    <task id="LOCAL-00023" summary="2023/06/10">
-      <created>1686405846090</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1686405846090</updated>
-    </task>
-    <task id="LOCAL-00024" summary="2023/06/11">
-      <created>1686495237673</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1686495237673</updated>
+      <workItem from="1691566836183" duration="2904000" />
+      <workItem from="1691673698791" duration="1587000" />
     </task>
     <task id="LOCAL-00025" summary="2023/06/12">
       <created>1686579796040</created>
@@ -579,7 +565,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691506063481</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="2023/08/09">
+      <created>1691570583159</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1691570583160</updated>
+    </task>
+    <task id="LOCAL-00073" summary="2023/08/09">
+      <created>1691570610749</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1691570610749</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +598,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/10" />
     <MESSAGE value="2023/07/11" />
     <MESSAGE value="2023/07/12" />
     <MESSAGE value="2023/07/13" />
@@ -623,7 +622,8 @@
     <MESSAGE value="2023/08/05" />
     <MESSAGE value="2023/08/07" />
     <MESSAGE value="2023/08/08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/08/08" />
+    <MESSAGE value="2023/08/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/08/09" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -642,22 +642,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1690638924560" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1691569737646">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1691570719484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1691569737646" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1691569737646">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1691570719484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1691569737646" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1691569737646">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1691570719484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1691569737646" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1691569737646">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1691570719484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1691569737646" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
     <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1691077546442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -678,10 +678,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691506081265">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691570658311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691506081265" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691570658311" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
