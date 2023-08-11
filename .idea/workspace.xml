@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="2023/08/09">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch10/ex01/ChainHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ch10/ex01/ChainHashTester2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="2023/08/09" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,14 +230,7 @@
       <workItem from="1691418975423" duration="665000" />
       <workItem from="1691505361743" duration="734000" />
       <workItem from="1691566836183" duration="2904000" />
-      <workItem from="1691673698791" duration="1587000" />
-    </task>
-    <task id="LOCAL-00025" summary="2023/06/12">
-      <created>1686579796040</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1686579796040</updated>
+      <workItem from="1691673698791" duration="1749000" />
     </task>
     <task id="LOCAL-00026" summary="2023/06/13">
       <created>1686664889297</created>
@@ -579,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691570610749</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="2023/08/10">
+      <created>1691676029926</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1691676029927</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +594,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/11" />
     <MESSAGE value="2023/07/12" />
     <MESSAGE value="2023/07/13" />
     <MESSAGE value="2023/07/14" />
@@ -623,7 +618,8 @@
     <MESSAGE value="2023/08/07" />
     <MESSAGE value="2023/08/08" />
     <MESSAGE value="2023/08/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/08/09" />
+    <MESSAGE value="2023/08/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/08/10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1684396790387">
@@ -642,22 +638,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1690638924560" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1691570719484">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1691676084460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1691570719484">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1691676084460" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1691676084460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1691570719484">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1691676084460" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1691676084460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1691570719484">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1691676084460" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1691676084460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1691570719484" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1691676084460" />
     <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1691077546442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -678,10 +674,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="991" y="227" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1684595584163" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691570658311">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1691676044541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691570658311" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1691676044541" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
