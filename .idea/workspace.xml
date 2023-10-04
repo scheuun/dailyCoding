@@ -11,178 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="2023/08/09">
+      <change afterPath="$PROJECT_DIR$/src/level1/NegaPosi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/PairRm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/Remainder1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dailycoding/level1/Remainder1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex01/JudgeABC1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex01/JudgeABC2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex01/JudgeABC2x.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex01/JudgeSign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex01/Max3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex01/Max3Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex01/Median.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Alternative1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Alternative2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/Multi99Table.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/PrintStars1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/PrintStars2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumFor2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumVerbose1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumVerbose2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/SumWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/TriangleLB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/ex02/TwoDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Add99TableEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Difference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/DigitsNo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Max4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Med3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Min3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Min4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Multi99TableEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/NumPira.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/StarPira.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/SumGauss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/SumOf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/SumWhileEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch01/home/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/ArraySumForIn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/CardConv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/CloneArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/IntArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/IntArrayInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/MaxOfArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/MaxOfArrayRand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/PrimeNumber1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/PrimeNumber2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/PrimeNumber3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex01/ReverseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/ex02/PhysicalExamination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/CardConvEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/Copy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/MaxOfArrayRand2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/PhysicalExaminationEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/Rcopy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/ReverseArrayEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/SumOf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch02/home/YMD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex02/SeqSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex02/SeqSearchFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex02/SeqSearchSen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/BinSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/BinarySearchTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/GenericClassTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/IdTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/PhysExamSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/StringBinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/ex03/X.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/home/BinSearchEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/home/BinSearchX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/home/BinarySearchTesterEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/home/PhysExamSearchV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/home/SearchIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/home/SeqSearchEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch03/home/SeqSearchSenFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/ex01/IntStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/ex01/IntStackTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/ex02/IntQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/ex02/IntQueueTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/ex02/LastNElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/DoubleHeadIntStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/DoubleHeadIntStackTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/IntArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/IntArrayQueueTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/IntDeque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/IntDequeTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/IntQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/IntStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/IntStackTesterEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/QueueTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch04/home/StackTesterEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex01/EuclidGCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex01/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex02/Recur.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex02/RecurMemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex02/RecurX1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex02/RecurX2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex03/Hanoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex04/EightQueen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex04/QueenB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/ex04/QueenBB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/EightQueenEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/EightQueenN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/EuclidGCDEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/FactorialEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/GCDArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/HanoiEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/HanoiN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/Recur2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/RecurCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch05/home/RecurMemoCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex03/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex04/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex05/ShellSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex05/ShellSort2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex06/Partition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSort3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex06/QuickSortV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex07/ArraySortTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex07/MergeArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex07/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex07/PhyscExamSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex07/SortCalendar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex08/HeapSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/ex09/CountingSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/BinInsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/BubbleSortEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/BubbleSortEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/BubbleSortEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/BubbleSortR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/CountingSort2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/CountingSortEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/HeapSortEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/InsertionSortCen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/InsertionSortEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/IntStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/PhyscExamSortV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/QuickSort1X.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/QuickSort2Verbose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/QuickSort2X.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/QuickSort3A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/QuickSort3B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/SelectionSortEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/ShakerSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/ShellSort1Ex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch06/home/ShellSort2Ex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch07/ex01/BFmatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch07/ex01/IndexOfTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch07/ex02/KMPmatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch07/ex03/BMmatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch07/home/BFmatchEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch07/home/BFmatchRev.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex02/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex02/LinkedListTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex02/ToStringTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex03/ArrayLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex03/ArrayLinkedListTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex04/DoubleLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch08/ex04/DoubleLinkedListTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch09/ex02/BinTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch09/ex02/BinTreeTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch09/ex02/Object.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch10/ex01/ChainHash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch10/ex01/ChainHashTester2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch10/ex01/OpenHash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ch10/ex01/OpenHashTester.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +70,7 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Average">
+  <component name="RunManager" selected="Application.NegaPosi">
     <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.Average" />
       <module name="dailycoding" />
@@ -266,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch06.home.BubbleSortEx" />
+    <configuration name="MagicSquare_t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.MagicSquare_t" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch06.home.*" />
+          <option name="PATTERN" value="level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSortCen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch06.home.InsertionSortCen" />
+    <configuration name="NegaPosi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.NegaPosi" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch06.home.*" />
+          <option name="PATTERN" value="level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NegaPosi" />
+        <item itemvalue="Application.MagicSquare_t" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.BFmatchEx" />
         <item itemvalue="Application.ShellSort2Ex" />
-        <item itemvalue="Application.InsertionSortCen" />
-        <item itemvalue="Application.BubbleSortEx" />
       </list>
     </recent_temporary>
   </component>
@@ -425,14 +256,11 @@
       <workItem from="1693750343955" duration="313000" />
       <workItem from="1693836119260" duration="873000" />
       <workItem from="1693845399672" duration="171000" />
-      <workItem from="1694268594862" duration="352000" />
-    </task>
-    <task id="LOCAL-00040" summary="2023/07/04">
-      <created>1688482449960</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1688482449960</updated>
+      <workItem from="1694268594862" duration="1212000" />
+      <workItem from="1694270849634" duration="706000" />
+      <workItem from="1694351167335" duration="40000" />
+      <workItem from="1694764193460" duration="504000" />
+      <workItem from="1696407676492" duration="2022000" />
     </task>
     <task id="LOCAL-00041" summary="2023/07/05">
       <created>1688567353576</created>
@@ -770,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693837745209</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="2023/09/09">
+      <created>1694269187036</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269187037</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -789,7 +624,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/26" />
     <MESSAGE value="2023/07/27" />
     <MESSAGE value="2023/07/29" />
     <MESSAGE value="2023/08/01" />
@@ -814,61 +648,66 @@
     <MESSAGE value="2023/09/02" />
     <MESSAGE value="2023/09/03" />
     <MESSAGE value="힙정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="힙정렬" />
+    <MESSAGE value="2023/09/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/09/09" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1687704033732">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1687704033732" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691076114950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1691076114950" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1693836208111">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1694764629801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1693836208111" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1692803249330">
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1694764629801" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1696409340353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1692803249330">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340353" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1696409340353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1692803249330">
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340353" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1696409340352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1692803249330">
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340352" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1696409340353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1692803249330">
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340353" />
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1696409340353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1692803249330">
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340353" />
+    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1696409340353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1692803249330">
+    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340353" />
+    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1696409340353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1692803249330">
+    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340353" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1696409340353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1692803249330" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1693837756958">
+    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696409340353" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1694269198663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1693837756958" />
-    <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1688999513605">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1694269198663" />
+    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1696409518736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="676" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1688999513605" />
+    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1696409518736" />
+    <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1694268658616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694268658616" />
+    <state x="470" y="260" key="new project wizard" timestamp="1694271172112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="470" y="260" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1694271172112" />
     <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1691075582733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -877,36 +716,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level2/FibonacciNum.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level2/FibonacciNum.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level2/FibonacciNum.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level2/FibonacciNum.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level2/FibonacciNum.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level2/FibonacciNum.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/algorithm/ch02/ex01/CardConv.java</url>
           <line>9</line>
@@ -1120,7 +929,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort.java</url>
           <line>11</line>
-          <properties class="algorithm.ch06.ex02.BubbleSort" method="bubbleSort">
+          <properties class="algorithm.ch06.ex02.BubbleSort">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="22" />
@@ -1128,7 +937,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ch04/home/Stack.java</url>
           <line>37</line>
-          <properties class="algorithm.ch04.home.Stack" method="peek">
+          <properties class="algorithm.ch04.home.Stack">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="48" />
