@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="2023/08/09">
-      <change afterPath="$PROJECT_DIR$/src/level1/NullNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/MinNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NullNum">
+  <component name="RunManager" selected="Application.MinNum">
     <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.Average" />
       <module name="dailycoding" />
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BFmatchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ch07.home.BFmatchEx" />
+    <configuration name="MagicSquare_t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.MagicSquare_t" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.ch07.home.*" />
+          <option name="PATTERN" value="level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagicSquare_t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.MagicSquare_t" />
+    <configuration name="MinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.MinNum" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinNum" />
         <item itemvalue="Application.NullNum" />
         <item itemvalue="Application.NegaPosi" />
         <item itemvalue="Application.MagicSquare_t" />
         <item itemvalue="Application.Average" />
-        <item itemvalue="Application.BFmatchEx" />
       </list>
     </recent_temporary>
   </component>
@@ -260,14 +260,8 @@
       <workItem from="1694351167335" duration="40000" />
       <workItem from="1694764193460" duration="504000" />
       <workItem from="1696407676492" duration="2334000" />
-      <workItem from="1696487833348" duration="297000" />
-    </task>
-    <task id="LOCAL-00042" summary="2023/07/06">
-      <created>1688654579167</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1688654579167</updated>
+      <workItem from="1696487833348" duration="2152000" />
+      <workItem from="1696662554623" duration="2378000" />
     </task>
     <task id="LOCAL-00043" summary="2023/07/07">
       <created>1688740353673</created>
@@ -605,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696409973867</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="없는 숫자 더하기">
+      <created>1696488362807</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1696488362808</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +625,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/07/29" />
     <MESSAGE value="2023/08/01" />
     <MESSAGE value="2023/08/02" />
     <MESSAGE value="2023/08/04" />
@@ -649,7 +649,8 @@
     <MESSAGE value="힙정렬" />
     <MESSAGE value="2023/09/09" />
     <MESSAGE value="음양 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="음양 더하기" />
+    <MESSAGE value="없는 숫자 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="없는 숫자 더하기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691076114950">
@@ -660,46 +661,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1694764629801" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1696410023493">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1696664885850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1696410023493">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1696664885850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1696410023493">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1696664885850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1696410023493">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1696664885850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1696410023493">
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1696664481887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
-    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1696410023493">
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
+    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1696664481887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
-    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1696410023493">
+    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
+    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1696664481887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
-    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1696410023493">
+    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1696664481887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696410023493" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
     <state x="758" y="221" key="RollbackChangesDialog" timestamp="1696409967378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1696409984434">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1696488372885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1696409984434" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1696488372885" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1696409518736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
