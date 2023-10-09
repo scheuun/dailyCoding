@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="2023/08/09">
-      <change afterPath="$PROJECT_DIR$/src/level1/MinNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -69,20 +68,7 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinNum">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.Average" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PairRm">
     <configuration name="MagicSquare_t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.MagicSquare_t" />
       <module name="dailycoding" />
@@ -135,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PairRm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.PairRm" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairRm" />
         <item itemvalue="Application.MinNum" />
         <item itemvalue="Application.NullNum" />
         <item itemvalue="Application.NegaPosi" />
         <item itemvalue="Application.MagicSquare_t" />
-        <item itemvalue="Application.Average" />
       </list>
     </recent_temporary>
   </component>
@@ -261,14 +260,9 @@
       <workItem from="1694764193460" duration="504000" />
       <workItem from="1696407676492" duration="2334000" />
       <workItem from="1696487833348" duration="2152000" />
-      <workItem from="1696662554623" duration="2378000" />
-    </task>
-    <task id="LOCAL-00043" summary="2023/07/07">
-      <created>1688740353673</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1688740353673</updated>
+      <workItem from="1696662554623" duration="2496000" />
+      <workItem from="1696776508695" duration="238000" />
+      <workItem from="1696837976998" duration="977000" />
     </task>
     <task id="LOCAL-00044" summary="2023/07/07">
       <created>1688740375375</created>
@@ -606,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696488362808</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="제일 작은 수 제거하기">
+      <created>1696665055314</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1696665055316</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +626,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/08/01" />
     <MESSAGE value="2023/08/02" />
     <MESSAGE value="2023/08/04" />
     <MESSAGE value="2023/08/05" />
@@ -650,57 +650,58 @@
     <MESSAGE value="2023/09/09" />
     <MESSAGE value="음양 더하기" />
     <MESSAGE value="없는 숫자 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="없는 숫자 더하기" />
+    <MESSAGE value="제일 작은 수 제거하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="제일 작은 수 제거하기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691076114950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1691076114950" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1694764629801">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1696776517215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1694764629801" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1696664885850">
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1696776517215" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1696664885850">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1696664885850">
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1696665069503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1696664885850">
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069503" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696664885850" />
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1696664481887">
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
-    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1696664481887">
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
+    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
-    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1696664481887">
+    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
+    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
-    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1696664481887">
+    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696664481887" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
     <state x="758" y="221" key="RollbackChangesDialog" timestamp="1696409967378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1696488372885">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1696665063457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1696488372885" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1696665063457" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1696409518736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
