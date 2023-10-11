@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level1/WaterMelon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/DotProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WaterMelon">
+  <component name="RunManager" selected="Application.DotProduct">
     <configuration name="CenterS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.CenterS" />
       <module name="dailycoding" />
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.MinNum" />
+    <configuration name="DotProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.DotProduct" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.NullNum" />
+    <configuration name="MinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.MinNum" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DotProduct" />
         <item itemvalue="Application.WaterMelon" />
         <item itemvalue="Application.CenterS" />
         <item itemvalue="Application.PairRm" />
         <item itemvalue="Application.MinNum" />
-        <item itemvalue="Application.NullNum" />
       </list>
     </recent_temporary>
   </component>
@@ -264,14 +264,8 @@
       <workItem from="1696662554623" duration="2496000" />
       <workItem from="1696776508695" duration="238000" />
       <workItem from="1696837976998" duration="1052000" />
-      <workItem from="1696947794554" duration="1972000" />
-    </task>
-    <task id="LOCAL-00046" summary="2023/07/09">
-      <created>1688914505696</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1688914505696</updated>
+      <workItem from="1696947794554" duration="2231000" />
+      <workItem from="1697005858226" duration="989000" />
     </task>
     <task id="LOCAL-00047" summary="2023/07/10">
       <created>1688999502904</created>
@@ -609,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696949142496</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="수박수박수박수박수박수?">
+      <created>1696949947278</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1696949947278</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,7 +629,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/08/05" />
     <MESSAGE value="2023/08/07" />
     <MESSAGE value="2023/08/08" />
     <MESSAGE value="2023/08/09" />
@@ -653,7 +653,8 @@
     <MESSAGE value="제일 작은 수 제거하기" />
     <MESSAGE value="짝지어 제거하기" />
     <MESSAGE value="가운데 글자 가져오기" />
-    <option name="LAST_COMMIT_MESSAGE" value="가운데 글자 가져오기" />
+    <MESSAGE value="수박수박수박수박수박수?" />
+    <option name="LAST_COMMIT_MESSAGE" value="수박수박수박수박수박수?" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691076114950">
@@ -668,22 +669,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1696776517215" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1696949733742">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1696950045067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696949733742" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1696949733742">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696950045067" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1696950045067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696949733742" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1696949733742">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696950045067" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1696950045067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696949733742" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1696949733742">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696950045067" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1696950045067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696949733742" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696950045067" />
     <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1696665069504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -704,10 +705,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1696949154303">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1696949953511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1696949154303" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1696949953511" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1696409518736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
