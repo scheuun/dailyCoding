@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level1/Desc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/DivNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +69,22 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DivNum">
     <configuration name="CenterS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.CenterS" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.DivNum" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -89,19 +102,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PairRm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.PairRm" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivNum" />
         <item itemvalue="Application.StringDesc" />
         <item itemvalue="Application.DotProduct" />
         <item itemvalue="Application.WaterMelon" />
         <item itemvalue="Application.CenterS" />
-        <item itemvalue="Application.PairRm" />
       </list>
     </recent_temporary>
   </component>
@@ -266,14 +266,8 @@
       <workItem from="1696837976998" duration="1052000" />
       <workItem from="1696947794554" duration="2231000" />
       <workItem from="1697005858226" duration="1059000" />
-      <workItem from="1697086672273" duration="2279000" />
-    </task>
-    <task id="LOCAL-00048" summary="2023/07/11">
-      <created>1689057873932</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1689057873932</updated>
+      <workItem from="1697086672273" duration="2583000" />
+      <workItem from="1697182375978" duration="1388000" />
     </task>
     <task id="LOCAL-00049" summary="2023/07/12">
       <created>1689172338356</created>
@@ -611,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697007279001</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="문자열 내림차순으로 배치하기">
+      <created>1697091337008</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1697091337009</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +631,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/08/08" />
     <MESSAGE value="2023/08/09" />
     <MESSAGE value="2023/08/10" />
     <MESSAGE value="2023/08/11" />
@@ -655,13 +655,18 @@
     <MESSAGE value="가운데 글자 가져오기" />
     <MESSAGE value="수박수박수박수박수박수?" />
     <MESSAGE value="내적" />
-    <option name="LAST_COMMIT_MESSAGE" value="내적" />
+    <MESSAGE value="문자열 내림차순으로 배치하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열 내림차순으로 배치하기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1697090809792" />
+    <state x="653" y="106" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1697091227389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="106" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1697091227389" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691076114950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -674,46 +679,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1697090486700" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1697091096303">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1697183768314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697091096303" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1697091096303">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697183768314" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1697183768314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697091096303" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1697091096303">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697183768314" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1697183768314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697091096303" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1697091096303">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697183768314" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1697183768314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697091096303" />
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1696665069504">
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697183768314" />
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1697183480408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
-    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1696665069504">
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697183480408" />
+    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1697183480408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
-    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1696665069504">
+    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697183480408" />
+    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1697183480408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
-    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1696665069504">
+    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697183480408" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1697183480408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1696665069504" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697183480408" />
     <state x="758" y="221" key="RollbackChangesDialog" timestamp="1696409967378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697007288755">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697091345658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697007288755" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697091345658" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697090796245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
