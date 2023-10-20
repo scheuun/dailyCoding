@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level1/DivMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/NoSameNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../websocket" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -69,7 +69,7 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DivMul">
+  <component name="RunManager" selected="Application.NoSameNum">
     <configuration name="ArrPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.ArrPlus" />
       <module name="dailycoding" />
@@ -109,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NoSameNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.NoSameNum" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SquareStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level1.SquareStar" />
       <module name="dailycoding" />
@@ -122,26 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrTF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.StrTF" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoSameNum" />
         <item itemvalue="Application.DivMul" />
         <item itemvalue="Application.SquareStar" />
         <item itemvalue="Application.ArrPlus" />
         <item itemvalue="Application.LackPrice" />
-        <item itemvalue="Application.StrTF" />
       </list>
     </recent_temporary>
   </component>
@@ -271,14 +271,10 @@
       <workItem from="1697292918736" duration="1425000" />
       <workItem from="1697374015355" duration="1116000" />
       <workItem from="1697436421004" duration="2372000" />
-      <workItem from="1697525215955" duration="948000" />
-    </task>
-    <task id="LOCAL-00054" summary="2023/07/17">
-      <created>1689605474281</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1689605474281</updated>
+      <workItem from="1697525215955" duration="1097000" />
+      <workItem from="1697608625596" duration="819000" />
+      <workItem from="1697702156467" duration="1107000" />
+      <workItem from="1697769970237" duration="2351000" />
     </task>
     <task id="LOCAL-00055" summary="2023/07/18">
       <created>1689659401977</created>
@@ -616,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697437811188</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="최대공약수와 최소공배수">
+      <created>1697526251326</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1697526251327</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +638,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/08/15" />
     <MESSAGE value="2023/08/17" />
     <MESSAGE value="2023/08/19" />
     <MESSAGE value="2023/08/20" />
@@ -660,7 +662,8 @@
     <MESSAGE value="부족한 금액 계산하기" />
     <MESSAGE value="행렬의 덧셈" />
     <MESSAGE value="직사각형 별찍기" />
-    <option name="LAST_COMMIT_MESSAGE" value="직사각형 별찍기" />
+    <MESSAGE value="최대공약수와 최소공배수" />
+    <option name="LAST_COMMIT_MESSAGE" value="최대공약수와 최소공배수" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -679,54 +682,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696949408670" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1697436444065">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1697608634423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1697436444065" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1697526162288">
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1697608634423" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1697773307655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697526162288" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1697526162288">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307655" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1697773307655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697526162288" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1697526162288">
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307655" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1697773307655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697526162288" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1697526162288">
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307655" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1697773307655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697526162288" />
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1697438807025">
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307655" />
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1697773307767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697438807025" />
-    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1697438807025">
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307767" />
+    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1697773307767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697438807025" />
-    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1697438807025">
+    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307767" />
+    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1697773307767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697438807025" />
-    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1697438807025">
+    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307767" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1697773307767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697438807025" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697773307767" />
     <state x="758" y="221" key="RollbackChangesDialog" timestamp="1696409967378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697437820376">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697526269228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697437820376" />
-    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697438224366">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697526269228" />
+    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697702825970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1697438224366" />
+    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1697702825970" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1694268658616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -952,6 +955,41 @@
           <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/HanoiEx.java</url>
           <line>25</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/NoSameNum.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/NoSameNum.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/NoSameNum.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/NoSameNum.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/NoSameNum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/NoSameNum.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/NoSameNum.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort.java</url>
