@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level1/RevBase3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/Budget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +69,9 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RevBase3">
-    <configuration name="ArrPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.ArrPlus" />
+  <component name="RunManager" selected="Application.Budget">
+    <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.Budget" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Budget" />
         <item itemvalue="Application.RevBase3" />
         <item itemvalue="Application.NoSameNum" />
         <item itemvalue="Application.DivMul" />
         <item itemvalue="Application.SquareStar" />
-        <item itemvalue="Application.ArrPlus" />
       </list>
     </recent_temporary>
   </component>
@@ -275,14 +275,8 @@
       <workItem from="1697608625596" duration="819000" />
       <workItem from="1697702156467" duration="1107000" />
       <workItem from="1697769970237" duration="2608000" />
-      <workItem from="1697894247277" duration="718000" />
-    </task>
-    <task id="LOCAL-00056" summary="2023/07/19">
-      <created>1689773633734</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1689773633735</updated>
+      <workItem from="1697894247277" duration="1082000" />
+      <workItem from="1697977632595" duration="970000" />
     </task>
     <task id="LOCAL-00057" summary="2023/07/20">
       <created>1689863591923</created>
@@ -620,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697773903802</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="3진법 뒤집기">
+      <created>1697895322867</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1697895322868</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +640,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/08/19" />
     <MESSAGE value="2023/08/20" />
     <MESSAGE value="2023/08/23" />
     <MESSAGE value="2023/08/26" />
@@ -664,7 +664,8 @@
     <MESSAGE value="직사각형 별찍기" />
     <MESSAGE value="최대공약수와 최소공배수" />
     <MESSAGE value="같은 숫자는 싫어" />
-    <option name="LAST_COMMIT_MESSAGE" value="같은 숫자는 싫어" />
+    <MESSAGE value="3진법 뒤집기" />
+    <option name="LAST_COMMIT_MESSAGE" value="3진법 뒤집기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -687,50 +688,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1697608634423" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1697894693112">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1697978615611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697894693112" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1697894693112">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1697978615611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697894693112" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1697894693112">
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1697978615611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697894693112" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1697894693112">
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1697978615611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697894693112" />
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1697773930573">
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1697978615808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697773930573" />
-    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1697773930573">
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
+    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1697978615808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697773930573" />
-    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1697773930573">
+    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
+    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1697978615808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697773930573" />
-    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1697773930573">
+    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1697978615808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697773930573" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
     <state x="758" y="221" key="RollbackChangesDialog" timestamp="1696409967378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697773912135">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697895333812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697773912135" />
-    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697702825970">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697895333812" />
+    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697978050429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1697702825970" />
+    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1697978050429" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1694268658616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -957,6 +958,51 @@
           <line>25</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort.java</url>
           <line>11</line>
@@ -975,5 +1021,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dailyCoding$Budget.ic" NAME="Budget Coverage Results" MODIFIED="1697978614259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>level1.*</FILTER>
+    </SUITE>
   </component>
 </project>
