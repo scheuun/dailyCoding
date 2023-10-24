@@ -11,8 +11,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level1/Budget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level0/OnlyNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/ArrPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/ArrPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/BetweenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/BetweenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/Budget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/CenterS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/CenterS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/Collatz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/CountOfPy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/CountOfPy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DescendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/DivArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DivArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/DivMul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DivMul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/DivNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DivNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DotProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/EvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/EvenAndOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/F_J/HarshadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/F_J/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/KimInSeoul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/F_J/KimInSeoul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/LackPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/LackPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/MinNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/MinNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/NegaPosi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/NegaPosi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/NoSameNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/NoSameNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/NullNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/NullNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/OX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/OX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/PhoneHide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/PhoneHide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/PowerOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/Remainder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/Remainder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/RevBase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/RevBase3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/ReversedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/ReversedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/SquareStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/SquareStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/StrTF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/StrTF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/StringDesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/StringDesc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/StringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/SumOfDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/SumOfDivisors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/WaterMelon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/U_Z/WaterMelon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +84,12 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\project\dailyCoding\src\algorithm\ch06\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch05\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch10\ex01" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex02" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex03" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="algorithm.ch07.ex03" />
@@ -61,21 +98,21 @@
       <recent name="algorithm.ch06.ex03" />
       <recent name="algorithm.ch06.ex02" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex03" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch08" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex01\home" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01\ex02" />
-      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch01" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\project\dailyCoding\src\algorithm\ch06\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch06\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch05\home" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch10\ex01" />
+      <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Budget">
+  <component name="RunManager" selected="Application.OnlyNum">
     <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.Budget" />
+      <option name="MAIN_CLASS_NAME" value="level1.A_E.Budget" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.*" />
+          <option name="PATTERN" value="level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="DivMul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.DivMul" />
+      <option name="MAIN_CLASS_NAME" value="level1.A_E.DivMul" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.*" />
+          <option name="PATTERN" value="level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +134,24 @@
       </method>
     </configuration>
     <configuration name="NoSameNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.NoSameNum" />
+      <option name="MAIN_CLASS_NAME" value="level1.K_O.NoSameNum" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.*" />
+          <option name="PATTERN" value="level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level0.OnlyNum" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,24 +160,11 @@
       </method>
     </configuration>
     <configuration name="RevBase3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.RevBase3" />
+      <option name="MAIN_CLASS_NAME" value="level1.P_T.RevBase3" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.SquareStar" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level1.*" />
+          <option name="PATTERN" value="level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OnlyNum" />
         <item itemvalue="Application.Budget" />
         <item itemvalue="Application.RevBase3" />
         <item itemvalue="Application.NoSameNum" />
         <item itemvalue="Application.DivMul" />
-        <item itemvalue="Application.SquareStar" />
       </list>
     </recent_temporary>
   </component>
@@ -276,14 +313,8 @@
       <workItem from="1697702156467" duration="1107000" />
       <workItem from="1697769970237" duration="2608000" />
       <workItem from="1697894247277" duration="1082000" />
-      <workItem from="1697977632595" duration="970000" />
-    </task>
-    <task id="LOCAL-00057" summary="2023/07/20">
-      <created>1689863591923</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1689863591923</updated>
+      <workItem from="1697977632595" duration="1350000" />
+      <workItem from="1698132270275" duration="1873000" />
     </task>
     <task id="LOCAL-00058" summary="2023/07/21">
       <created>1689916600302</created>
@@ -621,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697895322868</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="예산">
+      <created>1697978957768</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1697978957770</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -640,7 +678,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/08/20" />
     <MESSAGE value="2023/08/23" />
     <MESSAGE value="2023/08/26" />
     <MESSAGE value="2023/08/27" />
@@ -665,7 +702,8 @@
     <MESSAGE value="최대공약수와 최소공배수" />
     <MESSAGE value="같은 숫자는 싫어" />
     <MESSAGE value="3진법 뒤집기" />
-    <option name="LAST_COMMIT_MESSAGE" value="3진법 뒤집기" />
+    <MESSAGE value="예산" />
+    <option name="LAST_COMMIT_MESSAGE" value="예산" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -688,46 +726,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1697608634423" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1697978615611">
+    <state width="1860" height="235" key="GridCell.Tab.0.bottom" timestamp="1698133625567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1697978615611">
+    <state width="1860" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1698133625567" />
+    <state width="1860" height="235" key="GridCell.Tab.0.center" timestamp="1698133625567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1697978615611">
+    <state width="1860" height="235" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1698133625567" />
+    <state width="1860" height="235" key="GridCell.Tab.0.left" timestamp="1698133625566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1697978615611">
+    <state width="1860" height="235" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1698133625566" />
+    <state width="1860" height="235" key="GridCell.Tab.0.right" timestamp="1698133625567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615611" />
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1697978615808">
+    <state width="1860" height="235" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1698133625567" />
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom" timestamp="1697978997719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
-    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1697978615808">
+    <state width="1877" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1697978997719" />
+    <state width="1877" height="284" key="GridCell.Tab.1.center" timestamp="1697978997719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
-    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1697978615808">
+    <state width="1877" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1697978997719" />
+    <state width="1877" height="284" key="GridCell.Tab.1.left" timestamp="1697978997719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
-    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1697978615808">
+    <state width="1877" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1697978997719" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right" timestamp="1697978997719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697978615808" />
+    <state width="1877" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1697978997719" />
     <state x="758" y="221" key="RollbackChangesDialog" timestamp="1696409967378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697895333812">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697978977650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697895333812" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697978977650" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697978050429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -957,51 +995,6 @@
           <url>file://$PROJECT_DIR$/src/algorithm/ch05/home/HanoiEx.java</url>
           <line>25</line>
           <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level1/Budget.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ch06/ex02/BubbleSort.java</url>
