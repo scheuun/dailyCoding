@@ -10,47 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level0/OnlyNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/ArrPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/ArrPlus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/BetweenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/BetweenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/Budget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/CenterS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/CenterS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/Collatz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/CountOfPy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/CountOfPy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DescendingOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/DivArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DivArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/DivMul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DivMul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/DivNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DivNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/DotProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/EvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/EvenAndOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/F_J/HarshadNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/F_J/Interval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/KimInSeoul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/F_J/KimInSeoul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/LackPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/LackPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/MinNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/MinNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/NegaPosi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/NegaPosi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/NoSameNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/NoSameNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/NullNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/K_O/NullNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/OX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/OX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/PhoneHide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/PhoneHide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/PowerOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Remainder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/Remainder1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/RevBase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/RevBase3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/ReversedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/ReversedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/Score.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/A_E/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/SquareStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/SquareStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/StrTF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/StrTF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/StringDesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/StringDesc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/StringToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/SumOfDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/P_T/SumOfDivisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/WaterMelon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/U_Z/WaterMelon.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -315,13 +275,6 @@
       <workItem from="1697894247277" duration="1082000" />
       <workItem from="1697977632595" duration="1350000" />
       <workItem from="1698132270275" duration="1873000" />
-    </task>
-    <task id="LOCAL-00058" summary="2023/07/21">
-      <created>1689916600302</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1689916600302</updated>
     </task>
     <task id="LOCAL-00059" summary="2023/07/22">
       <created>1690037603092</created>
@@ -659,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697978957770</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="이상한 문자 만들기">
+      <created>1698330781542</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1698330781542</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -678,7 +638,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/08/23" />
     <MESSAGE value="2023/08/26" />
     <MESSAGE value="2023/08/27" />
     <MESSAGE value="2023/08/28" />
@@ -703,7 +662,8 @@
     <MESSAGE value="같은 숫자는 싫어" />
     <MESSAGE value="3진법 뒤집기" />
     <MESSAGE value="예산" />
-    <option name="LAST_COMMIT_MESSAGE" value="예산" />
+    <MESSAGE value="이상한 문자 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="이상한 문자 만들기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -762,10 +722,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1697978977650">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1698330791763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1697978977650" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1698330791763" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697978050429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
