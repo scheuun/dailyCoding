@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level0/Multiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level0/NumComp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,14 +285,7 @@
       <workItem from="1699191241868" duration="1412000" />
       <workItem from="1699251562899" duration="1202000" />
       <workItem from="1699339347773" duration="1120000" />
-      <workItem from="1699432998052" duration="293000" />
-    </task>
-    <task id="LOCAL-00066" summary="2023/08/01">
-      <created>1690900999470</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1690900999470</updated>
+      <workItem from="1699432998052" duration="592000" />
     </task>
     <task id="LOCAL-00067" summary="2023/08/02">
       <created>1690986347751</created>
@@ -631,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699339559055</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="두 수의 곱">
+      <created>1699433527767</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1699433527769</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,7 +649,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="힙정렬" />
     <MESSAGE value="2023/09/09" />
     <MESSAGE value="음양 더하기" />
     <MESSAGE value="없는 숫자 더하기" />
@@ -675,7 +673,8 @@
     <MESSAGE value="카펫" />
     <MESSAGE value="나머지 구하기" />
     <MESSAGE value="두 수의 차" />
-    <option name="LAST_COMMIT_MESSAGE" value="두 수의 차" />
+    <MESSAGE value="두 수의 곱" />
+    <option name="LAST_COMMIT_MESSAGE" value="두 수의 곱" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
