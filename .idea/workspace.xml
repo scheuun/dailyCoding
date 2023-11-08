@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
+      <change afterPath="$PROJECT_DIR$/src/level0/Multiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -284,20 +285,8 @@
       <workItem from="1699107056860" duration="866000" />
       <workItem from="1699191241868" duration="1412000" />
       <workItem from="1699251562899" duration="1202000" />
-    </task>
-    <task id="LOCAL-00064" summary="2023/07/27">
-      <created>1690469466246</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1690469466247</updated>
-    </task>
-    <task id="LOCAL-00065" summary="2023/07/29">
-      <created>1690641898924</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1690641898925</updated>
+      <workItem from="1699339347773" duration="1120000" />
+      <workItem from="1699432998052" duration="293000" />
     </task>
     <task id="LOCAL-00066" summary="2023/08/01">
       <created>1690900999470</created>
@@ -628,7 +617,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699192641263</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="나머지 구하기">
+      <created>1699339471733</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1699339471734</updated>
+    </task>
+    <task id="LOCAL-00114" summary="두 수의 차">
+      <created>1699339559055</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1699339559055</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,8 +650,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023/09/02" />
-    <MESSAGE value="2023/09/03" />
     <MESSAGE value="힙정렬" />
     <MESSAGE value="2023/09/09" />
     <MESSAGE value="음양 더하기" />
@@ -672,7 +673,9 @@
     <MESSAGE value="크기가 작은 부분 문자열" />
     <MESSAGE value="삼총사" />
     <MESSAGE value="카펫" />
-    <option name="LAST_COMMIT_MESSAGE" value="카펫" />
+    <MESSAGE value="나머지 구하기" />
+    <MESSAGE value="두 수의 차" />
+    <option name="LAST_COMMIT_MESSAGE" value="두 수의 차" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -691,10 +694,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696949408670" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1699251573042">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1699339873133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1699251573042" />
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1699339873133" />
     <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1699192663201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -731,10 +734,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1699192655204">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1699339570239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1699192655204" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1699339570239" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697978050429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
