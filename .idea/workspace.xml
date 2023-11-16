@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
+      <change afterPath="$PROJECT_DIR$/src/level0/Angle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -290,13 +291,7 @@
       <workItem from="1699712901694" duration="771000" />
       <workItem from="1699797846601" duration="296000" />
       <workItem from="1699855078359" duration="1016000" />
-    </task>
-    <task id="LOCAL-00072" summary="2023/08/09">
-      <created>1691570583159</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1691570583160</updated>
+      <workItem from="1700144237486" duration="740000" />
     </task>
     <task id="LOCAL-00073" summary="2023/08/09">
       <created>1691570610749</created>
@@ -634,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699798122394</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="부분 문자열">
+      <created>1700144562151</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1700144562153</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,7 +655,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="가운데 글자 가져오기" />
     <MESSAGE value="수박수박수박수박수박수?" />
     <MESSAGE value="내적" />
     <MESSAGE value="문자열 내림차순으로 배치하기" />
@@ -678,7 +679,8 @@
     <MESSAGE value="나이 출력" />
     <MESSAGE value="두 수의 합" />
     <MESSAGE value="두 수의 나눗셈" />
-    <option name="LAST_COMMIT_MESSAGE" value="두 수의 나눗셈" />
+    <MESSAGE value="부분 문자열" />
+    <option name="LAST_COMMIT_MESSAGE" value="부분 문자열" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
