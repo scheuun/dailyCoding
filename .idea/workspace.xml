@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../library" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -289,20 +288,8 @@
       <workItem from="1699432998052" duration="647000" />
       <workItem from="1699511361734" duration="2970000" />
       <workItem from="1699712901694" duration="771000" />
-    </task>
-    <task id="LOCAL-00070" summary="2023/08/07">
-      <created>1691419353102</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1691419353118</updated>
-    </task>
-    <task id="LOCAL-00071" summary="2023/08/08">
-      <created>1691506063481</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1691506063481</updated>
+      <workItem from="1699797846601" duration="296000" />
+      <workItem from="1699855078359" duration="1016000" />
     </task>
     <task id="LOCAL-00072" summary="2023/08/09">
       <created>1691570583159</created>
@@ -633,7 +620,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699713190607</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="두 수의 합">
+      <created>1699797967589</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1699797967590</updated>
+    </task>
+    <task id="LOCAL-00120" summary="두 수의 나눗셈">
+      <created>1699798122394</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1699798122394</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,8 +653,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="제일 작은 수 제거하기" />
-    <MESSAGE value="짝지어 제거하기" />
     <MESSAGE value="가운데 글자 가져오기" />
     <MESSAGE value="수박수박수박수박수박수?" />
     <MESSAGE value="내적" />
@@ -677,7 +676,9 @@
     <MESSAGE value="숫자 비교하기" />
     <MESSAGE value="몫 구하기" />
     <MESSAGE value="나이 출력" />
-    <option name="LAST_COMMIT_MESSAGE" value="나이 출력" />
+    <MESSAGE value="두 수의 합" />
+    <MESSAGE value="두 수의 나눗셈" />
+    <option name="LAST_COMMIT_MESSAGE" value="두 수의 나눗셈" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -688,18 +689,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="106" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1697091227389" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691076114950">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1691076114950" />
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1696949408670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696949408670" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1699519273001">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1699855211647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1699519273001" />
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1699855211647" />
     <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1699192663201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -736,10 +733,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1699713200987">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1699798134887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1699713200987" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1699798134887" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697978050429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -752,10 +749,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="470" y="260" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1694271172112" />
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1691075582733">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="130" y="270" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1691075582733" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
