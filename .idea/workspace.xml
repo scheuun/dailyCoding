@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level0/Angle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,14 +288,7 @@
       <workItem from="1699712901694" duration="771000" />
       <workItem from="1699797846601" duration="296000" />
       <workItem from="1699855078359" duration="1016000" />
-      <workItem from="1700144237486" duration="740000" />
-    </task>
-    <task id="LOCAL-00073" summary="2023/08/09">
-      <created>1691570610749</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1691570610749</updated>
+      <workItem from="1700144237486" duration="1088000" />
     </task>
     <task id="LOCAL-00074" summary="2023/08/10">
       <created>1691676029926</created>
@@ -636,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700144562153</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="각도기">
+      <created>1700145307540</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1700145307540</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,7 +652,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="수박수박수박수박수박수?" />
     <MESSAGE value="내적" />
     <MESSAGE value="문자열 내림차순으로 배치하기" />
     <MESSAGE value="약수의 개수와 덧셈" />
@@ -680,7 +676,8 @@
     <MESSAGE value="두 수의 합" />
     <MESSAGE value="두 수의 나눗셈" />
     <MESSAGE value="부분 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="부분 문자열" />
+    <MESSAGE value="각도기" />
+    <option name="LAST_COMMIT_MESSAGE" value="각도기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -735,10 +732,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1699798134887">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1700145329024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1699798134887" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1700145329024" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1697978050429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
