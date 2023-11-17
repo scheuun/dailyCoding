@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기" />
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
+      <change afterPath="$PROJECT_DIR$/src/level0/EvenSum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +68,13 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Carpet">
-    <configuration name="Budget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.A_E.Budget" />
+  <component name="RunManager" selected="Application.EvenSum">
+    <configuration name="Carpet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.Carpet" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level0.*" />
+          <option name="PATTERN" value="level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Carpet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.Carpet" />
+    <configuration name="EvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level0.EvenSum" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenSum" />
         <item itemvalue="Application.Carpet" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.SStr" />
         <item itemvalue="Application.OnlyNum" />
-        <item itemvalue="Application.Budget" />
       </list>
     </recent_temporary>
   </component>
@@ -289,13 +291,7 @@
       <workItem from="1699797846601" duration="296000" />
       <workItem from="1699855078359" duration="1016000" />
       <workItem from="1700144237486" duration="1088000" />
-    </task>
-    <task id="LOCAL-00074" summary="2023/08/10">
-      <created>1691676029926</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1691676029927</updated>
+      <workItem from="1700233219239" duration="291000" />
     </task>
     <task id="LOCAL-00075" summary="2023/08/11">
       <created>1691747598304</created>
@@ -633,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700145307540</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="rny_string">
+      <created>1700233346319</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1700233346320</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,7 +655,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="내적" />
     <MESSAGE value="문자열 내림차순으로 배치하기" />
     <MESSAGE value="약수의 개수와 덧셈" />
     <MESSAGE value="문자열 다루기 기본" />
@@ -677,7 +679,8 @@
     <MESSAGE value="두 수의 나눗셈" />
     <MESSAGE value="부분 문자열" />
     <MESSAGE value="각도기" />
-    <option name="LAST_COMMIT_MESSAGE" value="각도기" />
+    <MESSAGE value="rny_string" />
+    <option name="LAST_COMMIT_MESSAGE" value="rny_string" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
