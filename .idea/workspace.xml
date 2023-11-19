@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기" />
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
+      <change afterPath="$PROJECT_DIR$/src/level0/LambSke.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,13 +292,7 @@
       <workItem from="1699855078359" duration="1016000" />
       <workItem from="1700144237486" duration="1088000" />
       <workItem from="1700233219239" duration="583000" />
-    </task>
-    <task id="LOCAL-00076" summary="2023/08/12">
-      <created>1691848417941</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1691848417942</updated>
+      <workItem from="1700399294800" duration="325000" />
     </task>
     <task id="LOCAL-00077" summary="2023/08/13">
       <created>1691938057773</created>
@@ -634,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700233799788</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="배열의 평균값">
+      <created>1700399449703</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1700399449703</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,7 +656,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="약수의 개수와 덧셈" />
     <MESSAGE value="문자열 다루기 기본" />
     <MESSAGE value="부족한 금액 계산하기" />
     <MESSAGE value="행렬의 덧셈" />
@@ -678,7 +680,8 @@
     <MESSAGE value="각도기" />
     <MESSAGE value="rny_string" />
     <MESSAGE value="짝수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="짝수의 합" />
+    <MESSAGE value="배열의 평균값" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열의 평균값" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
