@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level0/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level0/SumDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -297,14 +297,7 @@
       <workItem from="1700556322685" duration="1693000" />
       <workItem from="1700635410803" duration="610000" />
       <workItem from="1700722887065" duration="3318000" />
-      <workItem from="1700809670012" duration="365000" />
-    </task>
-    <task id="LOCAL-00080" summary="2023/08/19">
-      <created>1692455699491</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1692455699492</updated>
+      <workItem from="1700809670012" duration="1080000" />
     </task>
     <task id="LOCAL-00081" summary="2023/08/20">
       <created>1692536902954</created>
@@ -642,7 +635,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700726145039</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="편지">
+      <created>1700810116628</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1700810116628</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +661,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="직사각형 별찍기" />
     <MESSAGE value="최대공약수와 최소공배수" />
     <MESSAGE value="같은 숫자는 싫어" />
     <MESSAGE value="3진법 뒤집기" />
@@ -686,7 +685,8 @@
     <MESSAGE value="양꼬치" />
     <MESSAGE value="최소직사각형" />
     <MESSAGE value="시저 암호" />
-    <option name="LAST_COMMIT_MESSAGE" value="시저 암호" />
+    <MESSAGE value="편지" />
+    <option name="LAST_COMMIT_MESSAGE" value="편지" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
