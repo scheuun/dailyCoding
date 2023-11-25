@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level0/SumDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,14 +294,7 @@
       <workItem from="1700556322685" duration="1693000" />
       <workItem from="1700635410803" duration="610000" />
       <workItem from="1700722887065" duration="3318000" />
-      <workItem from="1700809670012" duration="1080000" />
-    </task>
-    <task id="LOCAL-00081" summary="2023/08/20">
-      <created>1692536902954</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1692536902961</updated>
+      <workItem from="1700809670012" duration="1146000" />
     </task>
     <task id="LOCAL-00082" summary="2023/08/23">
       <created>1692801809415</created>
@@ -642,7 +632,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700810116628</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="자릿수 더하기">
+      <created>1700810806289</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1700810806289</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +658,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="최대공약수와 최소공배수" />
     <MESSAGE value="같은 숫자는 싫어" />
     <MESSAGE value="3진법 뒤집기" />
     <MESSAGE value="예산" />
@@ -686,7 +682,8 @@
     <MESSAGE value="최소직사각형" />
     <MESSAGE value="시저 암호" />
     <MESSAGE value="편지" />
-    <option name="LAST_COMMIT_MESSAGE" value="편지" />
+    <MESSAGE value="자릿수 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="자릿수 더하기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -741,10 +738,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1700726218352">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1700810815835">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1700726218352" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1700810815835" />
     <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1700556930722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
