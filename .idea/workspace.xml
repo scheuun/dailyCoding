@@ -11,8 +11,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level0/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level0/A_E/ArrLen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/A_E/Age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Angle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/A_E/Angle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/ArrAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/A_E/ArrAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/A_E/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/A_E/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/EvenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/A_E/EvenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/LambSke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/LambSke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Letter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/Letter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/Minus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/NumComp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/NumComp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/OX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/OX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/OnlyNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/K_O/OnlyNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/PartialStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/PartialStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Quotient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/Quotient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Remainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/Remainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/RnyStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/RnyStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/StrInStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/StrInStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/SumDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level0/P_T/SumDigit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="EvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.EvenSum" />
+      <option name="MAIN_CLASS_NAME" value="level0.A_E.EvenSum" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level0.*" />
+          <option name="PATTERN" value="level0.A_E.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,14 +321,8 @@
       <workItem from="1700635410803" duration="610000" />
       <workItem from="1700722887065" duration="3318000" />
       <workItem from="1700809670012" duration="1146000" />
-      <workItem from="1700922652514" duration="984000" />
-    </task>
-    <task id="LOCAL-00083" summary="2023/08/26">
-      <created>1693057188117</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1693057188118</updated>
+      <workItem from="1700922652514" duration="1190000" />
+      <workItem from="1701007596597" duration="329000" />
     </task>
     <task id="LOCAL-00084" summary="2023/08/27">
       <created>1693145571587</created>
@@ -643,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700922920432</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="짝수 홀수 개수">
+      <created>1700923833170</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1700923833171</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,7 +686,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3진법 뒤집기" />
     <MESSAGE value="예산" />
     <MESSAGE value="이상한 문자 만들기" />
     <MESSAGE value="크기가 작은 부분 문자열" />
@@ -687,7 +710,8 @@
     <MESSAGE value="편지" />
     <MESSAGE value="자릿수 더하기" />
     <MESSAGE value="문자열안에 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열안에 문자열" />
+    <MESSAGE value="짝수 홀수 개수" />
+    <option name="LAST_COMMIT_MESSAGE" value="짝수 홀수 개수" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -742,14 +766,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1700810815835">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1700923844445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1700810815835" />
-    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1700556930722">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1700923844445" />
+    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1701007884514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1700556930722" />
+    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1701007884514" />
     <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1694268658616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

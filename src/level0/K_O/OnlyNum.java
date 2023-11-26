@@ -1,4 +1,4 @@
-package level0;
+package level0.K_O;
 
 public class OnlyNum {
     public static void main(String[] args) {
