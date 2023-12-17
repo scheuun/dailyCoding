@@ -6,7 +6,7 @@ flo	result
 1.42	1
 69.32	69
  */
-public class Integer {
+public class FloToInt {
     public int solution(double flo) {
         return (int) flo;
     }
