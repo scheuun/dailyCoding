@@ -11,21 +11,115 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e30de3-726a-4a1e-91ba-8ad9fc726de6" name="Default Changelist" comment="짝지어 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/level0/U_Z/Xy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_J/FirstNega.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/CountOfPy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/DescendingOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/EvenAndOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/HarshadNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/KimInSeoul.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/PowerOfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/Remainder1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/ReversedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/StringToInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/SumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dailycoding/level1/SumOfDivisors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/Aeiou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Aeiou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/Angle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Angle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/ArrAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/ArrAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/ArrLen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/ArrLen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/ClothesS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/ClothesS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/ConvArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/ConvArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/CutArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/CutArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/Del0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Del0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/DelStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/DelStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/Dice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Dice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/DupNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/DupNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/A_E/EvenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/EvenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/FixInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/FixInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/FixStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/FixStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/FloToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/FloToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/FromN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/FromN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/GermMul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/GermMul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/HideNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/HideNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/IceAm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/IceAm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/F_J/IntervalN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/IntervalN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/LambSke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/LambSke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/Letter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/Letter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/Median.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/Median.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/Minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/Minus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/Mul2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/Mul2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/MulMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/MulMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/NotEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/NotEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/NumComp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/NumComp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/OX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/OX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/K_O/OnlyNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/OnlyNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/PartialStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/PartialStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Pizza1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Pizza1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Pizza3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Pizza3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Quotient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Quotient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Remainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Remainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/RevArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/RevArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/RevStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/RevStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/RnyStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/RnyStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/SimArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/SimArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Square2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Square2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/StrInStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/StrInStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/StrN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/StrN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/SumDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/SumDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/Taller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Taller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/P_T/TriCompl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/TriCompl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/U_Z/Upper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_Z/Upper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/U_Z/WordRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_Z/WordRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level0/U_Z/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_Z/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/ArrPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/ArrPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/BetweenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/BetweenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Budget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/CaesarCi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/CaesarCi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/CenterS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/CenterS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Collatz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/Comma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Comma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/CountOfPy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/CountOfPy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/DescendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/DivArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/DivArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/DivMul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/DivMul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/DivNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/DivNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/DotProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/A_E/EvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/EvenAndOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/F_J/HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/HarshadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/F_J/HhMmSs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/HhMmSs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/F_J/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/K_O/KimInSeoul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/KimInSeoul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/K_O/LackPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/LackPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/K_O/MinNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/MinNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/K_O/MinRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/MinRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/K_O/NegaPosi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/NegaPosi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/K_O/NoSameNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/NoSameNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/K_O/NullNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/NullNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/PhoneHide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/PhoneHide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/PowerOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/Remainder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Remainder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/RevBase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/RevBase3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/ReversedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/ReversedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/SStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/SStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/SquareStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/SquareStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/StrTF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/StrTF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/StringDesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/StringDesc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/StringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/SumOfDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/SumOfDivisors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/P_T/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/Three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/U_Z/WaterMelon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_Z/WaterMelon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level1/U_Z/WeirdStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U_Z/WeirdStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_E/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/FibonacciNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/F_J/FibonacciNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/JadenCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/JadenCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/MinArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/MinArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/NextBigNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/NextBigNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/NumExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_O/NumExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/PairRm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/PairRm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/RightBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_T/RightBracket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +147,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -82,13 +176,13 @@
       <recent name="C:\DEV\intellij\project\dailyCoding\src\algorithm\ch09\ex02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HhMmSs">
+  <component name="RunManager" selected="Application.PairRm">
     <configuration name="CaesarCi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.A_E.CaesarCi" />
+      <option name="MAIN_CLASS_NAME" value="A_E.CaesarCi" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.A_E.*" />
+          <option name="PATTERN" value="A_E.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,24 +191,11 @@
       </method>
     </configuration>
     <configuration name="Comma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.A_E.Comma" />
+      <option name="MAIN_CLASS_NAME" value="A_E.Comma" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.A_E.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level0.A_E.EvenSum" />
-      <module name="dailycoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level0.P_T.*" />
+          <option name="PATTERN" value="A_E.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +204,11 @@
       </method>
     </configuration>
     <configuration name="HhMmSs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.F_J.HhMmSs" />
+      <option name="MAIN_CLASS_NAME" value="F_J.HhMmSs" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.F_J.*" />
+          <option name="PATTERN" value="F_J.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +217,24 @@
       </method>
     </configuration>
     <configuration name="MinRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.K_O.MinRec" />
+      <option name="MAIN_CLASS_NAME" value="K_O.MinRec" />
       <module name="dailycoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.K_O.*" />
+          <option name="PATTERN" value="K_O.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairRm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_T.PairRm" />
+      <module name="dailycoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P_T.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairRm" />
         <item itemvalue="Application.HhMmSs" />
         <item itemvalue="Application.Comma" />
         <item itemvalue="Application.CaesarCi" />
         <item itemvalue="Application.MinRec" />
-        <item itemvalue="Application.EvenSum" />
       </list>
     </recent_temporary>
   </component>
@@ -315,224 +409,28 @@
       <workItem from="1701007596597" duration="1583000" />
       <workItem from="1701066172024" duration="2746000" />
       <workItem from="1701159197359" duration="2461000" />
-      <workItem from="1701257992449" duration="1940000" />
-    </task>
-    <task id="LOCAL-00090" summary="음양 더하기">
-      <created>1696409973867</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1696409973867</updated>
-    </task>
-    <task id="LOCAL-00091" summary="없는 숫자 더하기">
-      <created>1696488362807</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1696488362808</updated>
-    </task>
-    <task id="LOCAL-00092" summary="제일 작은 수 제거하기">
-      <created>1696665055314</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1696665055316</updated>
-    </task>
-    <task id="LOCAL-00093" summary="짝지어 제거하기">
-      <created>1696839021495</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1696839021496</updated>
-    </task>
-    <task id="LOCAL-00094" summary="가운데 글자 가져오기">
-      <created>1696949142495</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1696949142496</updated>
-    </task>
-    <task id="LOCAL-00095" summary="수박수박수박수박수박수?">
-      <created>1696949947278</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1696949947278</updated>
-    </task>
-    <task id="LOCAL-00096" summary="내적">
-      <created>1697007279000</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1697007279001</updated>
-    </task>
-    <task id="LOCAL-00097" summary="문자열 내림차순으로 배치하기">
-      <created>1697091337008</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1697091337009</updated>
-    </task>
-    <task id="LOCAL-00098" summary="약수의 개수와 덧셈">
-      <created>1697184007537</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1697184007538</updated>
-    </task>
-    <task id="LOCAL-00099" summary="문자열 다루기 기본">
-      <created>1697293817749</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1697293817749</updated>
-    </task>
-    <task id="LOCAL-00100" summary="부족한 금액 계산하기">
-      <created>1697375125923</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1697375125925</updated>
-    </task>
-    <task id="LOCAL-00101" summary="행렬의 덧셈">
-      <created>1697437491549</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1697437491549</updated>
-    </task>
-    <task id="LOCAL-00102" summary="직사각형 별찍기">
-      <created>1697437811188</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1697437811188</updated>
-    </task>
-    <task id="LOCAL-00103" summary="최대공약수와 최소공배수">
-      <created>1697526251326</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1697526251327</updated>
-    </task>
-    <task id="LOCAL-00104" summary="같은 숫자는 싫어">
-      <created>1697773903801</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1697773903802</updated>
-    </task>
-    <task id="LOCAL-00105" summary="3진법 뒤집기">
-      <created>1697895322867</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1697895322868</updated>
-    </task>
-    <task id="LOCAL-00106" summary="예산">
-      <created>1697978957768</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1697978957770</updated>
-    </task>
-    <task id="LOCAL-00107" summary="이상한 문자 만들기">
-      <created>1698330781542</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1698330781542</updated>
-    </task>
-    <task id="LOCAL-00108" summary="이상한 문자 만들기">
-      <created>1698330819958</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1698330819958</updated>
-    </task>
-    <task id="LOCAL-00109" summary="이상한 문자 만들기">
-      <created>1698330871298</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1698330871298</updated>
-    </task>
-    <task id="LOCAL-00110" summary="크기가 작은 부분 문자열">
-      <created>1698914146204</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1698914146205</updated>
-    </task>
-    <task id="LOCAL-00111" summary="삼총사">
-      <created>1699107912925</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1699107912926</updated>
-    </task>
-    <task id="LOCAL-00112" summary="카펫">
-      <created>1699192641262</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1699192641263</updated>
-    </task>
-    <task id="LOCAL-00113" summary="나머지 구하기">
-      <created>1699339471733</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1699339471734</updated>
-    </task>
-    <task id="LOCAL-00114" summary="두 수의 차">
-      <created>1699339559055</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1699339559055</updated>
-    </task>
-    <task id="LOCAL-00115" summary="두 수의 곱">
-      <created>1699433527767</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1699433527769</updated>
-    </task>
-    <task id="LOCAL-00116" summary="숫자 비교하기">
-      <created>1699433632826</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1699433632826</updated>
-    </task>
-    <task id="LOCAL-00117" summary="몫 구하기">
-      <created>1699713019473</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1699713019474</updated>
-    </task>
-    <task id="LOCAL-00118" summary="나이 출력">
-      <created>1699713190606</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1699713190607</updated>
-    </task>
-    <task id="LOCAL-00119" summary="두 수의 합">
-      <created>1699797967589</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1699797967590</updated>
-    </task>
-    <task id="LOCAL-00120" summary="두 수의 나눗셈">
-      <created>1699798122394</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1699798122394</updated>
+      <workItem from="1701257992449" duration="2077000" />
+      <workItem from="1701326271992" duration="955000" />
+      <workItem from="1701329718478" duration="751000" />
+      <workItem from="1701439290056" duration="810000" />
+      <workItem from="1701525684891" duration="1580000" />
+      <workItem from="1701613284356" duration="607000" />
+      <workItem from="1701664956433" duration="521000" />
+      <workItem from="1701753679211" duration="1979000" />
+      <workItem from="1701840066170" duration="626000" />
+      <workItem from="1701933614519" duration="511000" />
+      <workItem from="1701963648837" duration="1655000" />
+      <workItem from="1702128943758" duration="988000" />
+      <workItem from="1702215186952" duration="34000" />
+      <workItem from="1702215282613" duration="634000" />
+      <workItem from="1702284533863" duration="683000" />
+      <workItem from="1702363834764" duration="50000" />
+      <workItem from="1702538041836" duration="2689000" />
+      <workItem from="1702618783054" duration="605000" />
+      <workItem from="1702735340544" duration="427000" />
+      <workItem from="1702821397650" duration="336000" />
+      <workItem from="1702908509497" duration="293000" />
+      <workItem from="1702967302968" duration="907000" />
     </task>
     <task id="LOCAL-00121" summary="부분 문자열">
       <created>1700144562151</created>
@@ -660,7 +558,224 @@
       <option name="project" value="LOCAL" />
       <updated>1701259649400</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="점의 위치 구하기">
+      <created>1701260070551</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1701260070551</updated>
+    </task>
+    <task id="LOCAL-00140" summary="아이스 아메리카노">
+      <created>1701329953270</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1701329953271</updated>
+    </task>
+    <task id="LOCAL-00141" summary="옷가게 할인 받기">
+      <created>1701330452506</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1701330452507</updated>
+    </task>
+    <task id="LOCAL-00142" summary="조건에 맞게 수열 변환하기 3">
+      <created>1701439819104</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1701439819105</updated>
+    </task>
+    <task id="LOCAL-00143" summary="문자열의 뒤의 n글자">
+      <created>1701440069335</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1701440069336</updated>
+    </task>
+    <task id="LOCAL-00144" summary="피자 나눠 먹기 (1)">
+      <created>1701525880657</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1701525880658</updated>
+    </task>
+    <task id="LOCAL-00145" summary="n개 간격의 원소들">
+      <created>1701527525704</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1701527525704</updated>
+    </task>
+    <task id="LOCAL-00146" summary="최댓값 만들기(1)">
+      <created>1701613669711</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1701613669712</updated>
+    </task>
+    <task id="LOCAL-00147" summary="특정 문자 제거하기">
+      <created>1701613827208</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1701613827208</updated>
+    </task>
+    <task id="LOCAL-00148" summary="피자 나눠 먹기 (3)">
+      <created>1701665147460</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1701665147460</updated>
+    </task>
+    <task id="LOCAL-00149" summary="중복된 숫자 개수">
+      <created>1701665464656</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1701665464656</updated>
+    </task>
+    <task id="LOCAL-00150" summary="머쓱이보다 키 큰 사람">
+      <created>1701755586271</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1701755586272</updated>
+    </task>
+    <task id="LOCAL-00151" summary="삼각형의 완성조건 (1)">
+      <created>1701756160084</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1701756160084</updated>
+    </task>
+    <task id="LOCAL-00152" summary="문자열 뒤집기">
+      <created>1701840230964</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1701840230964</updated>
+    </task>
+    <task id="LOCAL-00153" summary="배열 두 배 만들기">
+      <created>1701840596969</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1701840596969</updated>
+    </task>
+    <task id="LOCAL-00154" summary="모음 제거">
+      <created>1701933822344</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1701933822344</updated>
+    </task>
+    <task id="LOCAL-00155" summary="배열의 유사도">
+      <created>1701934114134</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1701934114134</updated>
+    </task>
+    <task id="LOCAL-00156" summary="주사위 게임 1">
+      <created>1701964694650</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1701964694651</updated>
+    </task>
+    <task id="LOCAL-00157" summary="숨어있는 숫자의 덧셈 (1)">
+      <created>1701965277263</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1701965277263</updated>
+    </task>
+    <task id="LOCAL-00158" summary="제곱수 판별하기">
+      <created>1702130400073</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1702130400074</updated>
+    </task>
+    <task id="LOCAL-00159" summary="중앙값 구하기">
+      <created>1702130686576</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1702130686576</updated>
+    </task>
+    <task id="LOCAL-00160" summary="배열 자르기">
+      <created>1702215481943</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1702215481944</updated>
+    </task>
+    <task id="LOCAL-00161" summary="순서쌍의 개수">
+      <created>1702215906746</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1702215906746</updated>
+    </task>
+    <task id="LOCAL-00162" summary="문자 반복 출력하기">
+      <created>1702538716040</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1702538716041</updated>
+    </task>
+    <task id="LOCAL-00163" summary="짝수는 싫어요">
+      <created>1702540733932</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1702540733932</updated>
+    </task>
+    <task id="LOCAL-00164" summary="세균 증식">
+      <created>1702735576356</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1702735576357</updated>
+    </task>
+    <task id="LOCAL-00165" summary="정수 부분">
+      <created>1702735747424</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1702735747424</updated>
+    </task>
+    <task id="LOCAL-00166" summary="문자열로 변환">
+      <created>1702821526948</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1702821526949</updated>
+    </task>
+    <task id="LOCAL-00167" summary="문자열을 정수로 변환하기">
+      <created>1702821716210</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1702821716210</updated>
+    </task>
+    <task id="LOCAL-00168" summary="대문자로 바꾸기">
+      <created>1702908591411</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1702908591413</updated>
+    </task>
+    <task id="LOCAL-00169" summary="n 번째 원소부터">
+      <created>1702908789244</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1702908789244</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,32 +794,32 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="나머지 구하기" />
-    <MESSAGE value="두 수의 차" />
-    <MESSAGE value="두 수의 곱" />
-    <MESSAGE value="숫자 비교하기" />
-    <MESSAGE value="몫 구하기" />
-    <MESSAGE value="나이 출력" />
-    <MESSAGE value="두 수의 합" />
-    <MESSAGE value="두 수의 나눗셈" />
-    <MESSAGE value="부분 문자열" />
-    <MESSAGE value="각도기" />
-    <MESSAGE value="rny_string" />
-    <MESSAGE value="짝수의 합" />
-    <MESSAGE value="배열의 평균값" />
-    <MESSAGE value="양꼬치" />
-    <MESSAGE value="최소직사각형" />
-    <MESSAGE value="시저 암호" />
-    <MESSAGE value="편지" />
-    <MESSAGE value="자릿수 더하기" />
-    <MESSAGE value="문자열안에 문자열" />
-    <MESSAGE value="짝수 홀수 개수" />
-    <MESSAGE value="배열 원소의 길이" />
-    <MESSAGE value="배열 뒤집기" />
-    <MESSAGE value="천단위 콤마 붙이기" />
-    <MESSAGE value="시간 더하기" />
-    <MESSAGE value="0빼기" />
-    <option name="LAST_COMMIT_MESSAGE" value="0빼기" />
+    <MESSAGE value="n개 간격의 원소들" />
+    <MESSAGE value="최댓값 만들기(1)" />
+    <MESSAGE value="특정 문자 제거하기" />
+    <MESSAGE value="피자 나눠 먹기 (3)" />
+    <MESSAGE value="중복된 숫자 개수" />
+    <MESSAGE value="머쓱이보다 키 큰 사람" />
+    <MESSAGE value="삼각형의 완성조건 (1)" />
+    <MESSAGE value="문자열 뒤집기" />
+    <MESSAGE value="배열 두 배 만들기" />
+    <MESSAGE value="모음 제거" />
+    <MESSAGE value="배열의 유사도" />
+    <MESSAGE value="주사위 게임 1" />
+    <MESSAGE value="숨어있는 숫자의 덧셈 (1)" />
+    <MESSAGE value="제곱수 판별하기" />
+    <MESSAGE value="중앙값 구하기" />
+    <MESSAGE value="배열 자르기" />
+    <MESSAGE value="순서쌍의 개수" />
+    <MESSAGE value="문자 반복 출력하기" />
+    <MESSAGE value="짝수는 싫어요" />
+    <MESSAGE value="세균 증식" />
+    <MESSAGE value="정수 부분" />
+    <MESSAGE value="문자열로 변환" />
+    <MESSAGE value="문자열을 정수로 변환하기" />
+    <MESSAGE value="대문자로 바꾸기" />
+    <MESSAGE value="n 번째 원소부터" />
+    <option name="LAST_COMMIT_MESSAGE" value="n 번째 원소부터" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1697090809792">
@@ -719,10 +834,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696949408670" />
-    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1700635423003">
+    <state x="804" y="264" key="FileChooserDialogImpl" timestamp="1702363879257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1700635423003" />
+    <state x="804" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1702363879257" />
     <state width="1860" height="265" key="GridCell.Tab.0.bottom" timestamp="1701165697100">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -755,26 +870,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1860" height="265" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1701165697100" />
-    <state x="758" y="221" key="RollbackChangesDialog" timestamp="1696409967378">
+    <state x="758" y="221" key="RollbackChangesDialog" timestamp="1701440097315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1696409967378" />
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1701165691766">
+    <state x="758" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1701440097315" />
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2" timestamp="1702908799455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1701165691766" />
-    <state x="668" y="205" width="584" height="630" key="find.popup" timestamp="1701066392701">
+    <state x="572" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1702908799455" />
+    <state x="1293" y="195" width="584" height="630" key="find.popup" timestamp="1702539939004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="205" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1701066392701" />
-    <state x="676" y="307" key="git4idea.merge.GitPullDialog" timestamp="1694268658616">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="676" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694268658616" />
+    <state x="1293" y="195" width="584" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1702539939004" />
     <state x="470" y="260" key="new project wizard" timestamp="1694271172112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="470" y="260" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1694271172112" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1702129117561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1702129117561" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
